@@ -1,0 +1,119 @@
+[
+  {
+    "company": "openssl",
+    "total_count": 6,
+    "products": {
+      "openssl:1.0.2ze": 1,
+      "openssl:1.1.1o": 1,
+      "openssl:3.0.3": 1,
+      "openssl:1.0.2zf": 1,
+      "openssl:1.1.1p": 1,
+      "openssl:3.0.4": 1
+    }
+  },
+  {
+    "company": "debian",
+    "total_count": 5,
+    "products": {
+      "debian_linux:na": 5
+    }
+  },
+  {
+    "company": "netapp",
+    "total_count": 56,
+    "products": {
+      "active_iq_unified_manager:na": 3,
+      "clustered_data_ontap:na": 5,
+      "clustered_data_ontap_antivirus_connector:na": 1,
+      "oncommand_insight:na": 1,
+      "oncommand_workflow_automation:na": 1,
+      "santricity_smi-s_provider:na": 2,
+      "smi-s_provider:na": 2,
+      "snapcenter:na": 1,
+      "snapmanager:na": 2,
+      "solidfire_\\&_hci_management_node:na": 1,
+      "a700s_firmware:na": 1,
+      "h300s_firmware:na": 2,
+      "h500s_firmware:na": 2,
+      "h700s_firmware:na": 2,
+      "h300e_firmware:na": 1,
+      "h500e_firmware:na": 1,
+      "h700e_firmware:na": 1,
+      "h410s_firmware:na": 2,
+      "aff_8300_firmware:na": 2,
+      "fas_8300_firmware:na": 2,
+      "aff_8700_firmware:na": 2,
+      "fas_8700_firmware:na": 2,
+      "aff_a400_firmware:na": 2,
+      "fabric-attached_storage_a400_firmware:na": 1,
+      "a250_firmware:na": 1,
+      "aff_500f_firmware:na": 1,
+      "fas_500f_firmware:na": 1,
+      "element_software:na": 1,
+      "hci_management_node:na": 1,
+      "ontap_antivirus_connector:na": 1,
+      "ontap_select_deploy_administration_utility:na": 1,
+      "solidfire:na": 1,
+      "bootstrap_os:na": 1,
+      "h615c_firmware:na": 1,
+      "h610s_firmware:na": 1,
+      "h610c_firmware:na": 1,
+      "h410c_firmware:na": 1,
+      "fas_a400_firmware:na": 1
+    }
+  },
+  {
+    "company": "oracle",
+    "total_count": 4,
+    "products": {
+      "enterprise_manager_ops_center:na": 1,
+      "mysql_server:5.7.38": 1,
+      "mysql_server:8.0.29": 1,
+      "mysql_workbench:8.0.29": 1
+    }
+  },
+  {
+    "company": "fedoraproject",
+    "total_count": 12,
+    "products": {
+      "fedora:na": 12
+    }
+  },
+  {
+    "company": "siemens",
+    "total_count": 4,
+    "products": {
+      "sinec_ins:1.0": 1,
+      "sinec_ins:na": 3
+    }
+  },
+  {
+    "company": "broadcom",
+    "total_count": 1,
+    "products": {
+      "sannav:na": 1
+    }
+  },
+  {
+    "company": "papercut",
+    "total_count": 2,
+    "products": {
+      "papercut_mf:22.1.3": 1,
+      "papercut_ng:22.1.3": 1
+    }
+  },
+  {
+    "company": "apache",
+    "total_count": 4,
+    "products": {
+      "http_server:2.4.54": 4
+    }
+  },
+  {
+    "company": "sonicwall",
+    "total_count": 1,
+    "products": {
+      "global_management_system:8.1": 1
+    }
+  }
+]
