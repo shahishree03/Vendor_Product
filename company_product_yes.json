@@ -1,0 +1,124 @@
+[
+  {
+    "company": "microsoft",
+    "total_count": 90,
+    "products": {
+      "windows_10_1809:10.0.17763.5458": 1,
+      "windows_10_21h2:10.0.19044.4046": 1,
+      "windows_10_22h2:10.0.19045.4046": 1,
+      "windows_11_21h2:10.0.22000.2777": 1,
+      "windows_11_22h2:10.0.22621.3155": 1,
+      "windows_11_23h2:10.0.22631.3155": 1,
+      "windows_server_2019:10.0.17763.5458": 1,
+      "windows_server_2022:10.0.20348.2322": 1,
+      "windows_server_2022_23h2:10.0.25398.709": 1,
+      "windows_10_1507:10.0.10240.20857": 2,
+      "windows_10_1607:10.0.14393.7606": 2,
+      "windows_10_1809:10.0.17763.6659": 2,
+      "windows_10_21h2:10.0.19044.5247": 3,
+      "windows_10_22h2:10.0.19045.5247": 3,
+      "windows_11_22h2:10.0.22621.4602": 2,
+      "windows_11_23h2:10.0.22631.4602": 2,
+      "windows_11_24h2:10.0.26100.2605": 2,
+      "windows_server_2008:na": 6,
+      "windows_server_2012:na": 6,
+      "windows_server_2016:10.0.14393.7606": 1,
+      "windows_server_2019:10.0.17763.6659": 1,
+      "windows_server_2022:10.0.20348.2966": 1,
+      "windows_server_2022_23h2:10.0.25398.1308": 1,
+      "windows_server_2025:10.0.26100.2605": 1,
+      "windows_10_1507:10.0.10240.20947": 2,
+      "windows_10_1607:10.0.14393.7876": 2,
+      "windows_10_1809:10.0.17763.7009": 2,
+      "windows_10_21h2:10.0.19044.5608": 3,
+      "windows_10_22h2:10.0.19045.5608": 3,
+      "windows_11_22h2:10.0.22621.5039": 2,
+      "windows_11_23h2:10.0.22631.5039": 2,
+      "windows_11_24h2:10.0.26100.3403": 2,
+      "windows_server_2016:10.0.14393.7876": 1,
+      "windows_server_2019:10.0.17763.7009": 1,
+      "windows_server_2022:10.0.20348.3270": 1,
+      "windows_server_2022_23h2:10.0.25398.1486": 1,
+      "windows_server_2025:10.0.26100.3403": 1,
+      "windows_10_1507:10.0.10240.20978": 2,
+      "windows_10_1607:10.0.14393.7969": 2,
+      "windows_10_1809:10.0.17763.7136": 2,
+      "windows_10_21h2:10.0.19044.5737": 3,
+      "windows_10_22h2:10.0.19045.5737": 3,
+      "windows_11_22h2:10.0.22621.5189": 2,
+      "windows_11_23h2:10.0.22631.5189": 2,
+      "windows_11_24h2:10.0.26100.3775": 2,
+      "windows_server_2016:10.0.14393.7970": 1,
+      "windows_server_2019:10.0.17763.7137": 1,
+      "windows_server_2022:10.0.20348.3453": 1,
+      "windows_server_2022_23h2:10.0.25398.1551": 1,
+      "windows_server_2025:10.0.26100.3775": 1
+    }
+  },
+  {
+    "company": "commvault",
+    "total_count": 4,
+    "products": {
+      "commvault:11.20.217": 1,
+      "commvault:11.28.141": 1,
+      "commvault:11.32.89": 1,
+      "commvault:11.36.46": 1
+    }
+  },
+  {
+    "company": "oracle",
+    "total_count": 42,
+    "products": {
+      "jre:na": 42
+    }
+  },
+  {
+    "company": "sun",
+    "total_count": 50,
+    "products": {
+      "jre:na": 50
+    }
+  },
+  {
+    "company": "suse",
+    "total_count": 12,
+    "products": {
+      "linux_enterprise_desktop:na": 1,
+      "linux_enterprise_java:na": 3,
+      "linux_enterprise_server:na": 6,
+      "linux_enterprise_software_development_kit:na": 2
+    }
+  },
+  {
+    "company": "apache",
+    "total_count": 1,
+    "products": {
+      "http_server:2.4.60": 1
+    }
+  },
+  {
+    "company": "netapp",
+    "total_count": 1,
+    "products": {
+      "ontap_9:na": 1
+    }
+  },
+  {
+    "company": "sap",
+    "total_count": 1,
+    "products": {
+      "netweaver:na": 1
+    }
+  },
+  {
+    "company": "ivanti",
+    "total_count": 48,
+    "products": {
+      "connect_secure:22.7": 1,
+      "connect_secure:na": 13,
+      "neurons_for_zero-trust_access:na": 28,
+      "policy_secure:22.7": 1,
+      "policy_secure:na": 5
+    }
+  }
+]
