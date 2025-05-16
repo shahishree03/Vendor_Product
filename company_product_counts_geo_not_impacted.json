@@ -1,0 +1,155 @@
+[
+  {
+    "company": "google",
+    "total_count": 1,
+    "products": {
+      "chrome:114.0.5735.198": 1
+    }
+  },
+  {
+    "company": "debian",
+    "total_count": 3,
+    "products": {
+      "debian_linux:na": 3
+    }
+  },
+  {
+    "company": "apple",
+    "total_count": 38,
+    "products": {
+      "icloud:7.19": 1,
+      "icloud:11.2": 1,
+      "itunes:12.10.7": 1,
+      "safari:13.1.1": 1,
+      "ipados:13.5": 1,
+      "iphone_os:13.5": 1,
+      "tvos:13.4.5": 1,
+      "watchos:6.2.5": 1,
+      "itunes:12.12.4": 1,
+      "safari:15.5": 4,
+      "ipados:15.5": 5,
+      "iphone_os:15.5": 5,
+      "macos:12.4": 5,
+      "tvos:15.5": 5,
+      "watchos:8.6": 5
+    }
+  },
+  {
+    "company": "3cx",
+    "total_count": 6,
+    "products": {
+      "3cx:na": 6
+    }
+  },
+  {
+    "company": "microsoft",
+    "total_count": 53,
+    "products": {
+      "windows_10_1507:10.0.10240.20947": 2,
+      "windows_10_1607:10.0.14393.7876": 2,
+      "windows_10_1809:10.0.17763.7009": 2,
+      "windows_10_21h2:10.0.19044.5608": 3,
+      "windows_10_22h2:10.0.19045.5608": 3,
+      "windows_11_22h2:10.0.22621.5039": 2,
+      "windows_11_23h2:10.0.22631.5039": 2,
+      "windows_11_24h2:10.0.26100.3403": 2,
+      "windows_server_2008:na": 3,
+      "windows_server_2012:na": 4,
+      "windows_server_2016:10.0.14393.7876": 1,
+      "windows_server_2019:10.0.17763.7009": 1,
+      "windows_server_2022:10.0.20348.3270": 1,
+      "windows_server_2022_23h2:10.0.25398.1486": 1,
+      "windows_server_2025:10.0.26100.3403": 1,
+      "windows_10_1507:10.0.10240.20978": 2,
+      "windows_10_1607:10.0.14393.7969": 2,
+      "windows_10_1809:10.0.17763.7136": 2,
+      "windows_10_21h2:10.0.19044.5737": 3,
+      "windows_10_22h2:10.0.19045.5737": 3,
+      "windows_11_22h2:10.0.22621.5189": 2,
+      "windows_11_23h2:10.0.22631.5189": 2,
+      "windows_11_24h2:10.0.26100.3775": 2,
+      "windows_server_2016:10.0.14393.7970": 1,
+      "windows_server_2019:10.0.17763.7137": 1,
+      "windows_server_2022:10.0.20348.3453": 1,
+      "windows_server_2022_23h2:10.0.25398.1551": 1,
+      "windows_server_2025:10.0.26100.3775": 1
+    }
+  },
+  {
+    "company": "apache",
+    "total_count": 1,
+    "products": {
+      "http_server:2.4.44": 1
+    }
+  },
+  {
+    "company": "netapp",
+    "total_count": 1,
+    "products": {
+      "clustered_data_ontap:na": 1
+    }
+  },
+  {
+    "company": "canonical",
+    "total_count": 3,
+    "products": {
+      "ubuntu_linux:na": 3
+    }
+  },
+  {
+    "company": "opensuse",
+    "total_count": 2,
+    "products": {
+      "leap:na": 2
+    }
+  },
+  {
+    "company": "fedoraproject",
+    "total_count": 2,
+    "products": {
+      "fedora:na": 2
+    }
+  },
+  {
+    "company": "oracle",
+    "total_count": 9,
+    "products": {
+      "communications_element_manager:8.2.2": 1,
+      "communications_session_report_manager:8.2.2": 1,
+      "communications_session_route_manager:8.2.2": 1,
+      "enterprise_manager_ops_center:na": 1,
+      "hyperion_infrastructure_technology:na": 1,
+      "instantis_enterprisetrack:na": 3,
+      "zfs_storage_appliance_kit:na": 1
+    }
+  },
+  {
+    "company": "f-secure",
+    "total_count": 2,
+    "products": {
+      "safe:19.0": 2
+    }
+  },
+  {
+    "company": "admincolumns",
+    "total_count": 2,
+    "products": {
+      "admin_columns:4.3": 1,
+      "admin_columns:5.5.1": 1
+    }
+  },
+  {
+    "company": "oretnom23",
+    "total_count": 1,
+    "products": {
+      "clinic\\'s_patient_management_system:na": 1
+    }
+  },
+  {
+    "company": "canteen_management_system_project",
+    "total_count": 1,
+    "products": {
+      "canteen_management_system:na": 1
+    }
+  }
+]
