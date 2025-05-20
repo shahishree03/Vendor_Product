@@ -1,0 +1,68 @@
+{
+    "apple": {
+        "total_count": 14,
+        "subproducts": {
+            "ipados ": 5,
+            "iphone_os ": 5,
+            "watchos ": 1,
+            "macos ": 2,
+            "safari ": 1
+        }
+    },
+    "fedoraproject": {
+        "total_count": 5,
+        "subproducts": {
+            "fedora ": 5
+        }
+    },
+    "debian": {
+        "total_count": 4,
+        "subproducts": {
+            "debian_linux ": 4
+        }
+    },
+    "oracle": {
+        "total_count": 4,
+        "subproducts": {
+            "graalvm ": 2,
+            "jdk ": 1,
+            "jre ": 1
+        }
+    },
+    "netapp": {
+        "total_count": 6,
+        "subproducts": {
+            "active_iq_unified_manager ": 2,
+            "cloud_insights_acquisition_unit ": 1,
+            "cloud_insights_storage_workload_security_agent ": 1,
+            "oncommand_insight ": 1,
+            "oncommand_workflow_automation ": 1
+        }
+    },
+    "webkitgtk": {
+        "total_count": 2,
+        "subproducts": {
+            "webkitgtk\\+ ": 2
+        }
+    },
+    "ivanti": {
+        "total_count": 118,
+        "subproducts": {
+            "connect_secure ": 60,
+            "policy_secure ": 46,
+            "neurons_for_zero-trust_access ": 12
+        }
+    },
+    "qlik": {
+        "total_count": 72,
+        "subproducts": {
+            "qlik_sense ": 72
+        }
+    },
+    "paloaltonetworks": {
+        "total_count": 52,
+        "subproducts": {
+            "pan-os ": 52
+        }
+    }
+}
