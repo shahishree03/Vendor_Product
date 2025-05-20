@@ -1,0 +1,1398 @@
+{
+    "google": {
+        "total_count": 41,
+        "subproducts": {
+            "chrome ": 40,
+            "linux_and_chrome_os ": 1
+        }
+    },
+    "debian": {
+        "total_count": 105,
+        "subproducts": {
+            "debian_linux ": 105
+        }
+    },
+    "microsoft": {
+        "total_count": 1767,
+        "subproducts": {
+            "edge_chromium ": 21,
+            "edge ": 3,
+            "windows_10 ": 553,
+            "windows_7 ": 86,
+            "windows_8.1 ": 73,
+            "windows_rt_8.1 ": 72,
+            "windows_server_2008 ": 249,
+            "windows_server_2012 ": 147,
+            "windows_server_2016 ": 288,
+            "windows_server_2019 ": 86,
+            "office ": 4,
+            "office_365_proplus ": 1,
+            "windows_server ": 1,
+            "exchange_server ": 164,
+            "xamarin.forms ": 1,
+            "azure_sdk_for_java ": 1,
+            "visual_studio_code ": 2,
+            "package_manager_configurations ": 1,
+            "teams ": 1,
+            "edge_ios ": 1,
+            "intune_company_portal ": 1,
+            "visual_studio_2017 ": 5,
+            "visual_studio_2019 ": 5,
+            "visual_studio_code_github_pull_requests_and_issues ": 1
+        }
+    },
+    "fedoraproject": {
+        "total_count": 99,
+        "subproducts": {
+            "extra_packages_for_enterprise_linux ": 1,
+            "fedora ": 98
+        }
+    },
+    "openssl": {
+        "total_count": 2,
+        "subproducts": {
+            "openssl ": 2
+        }
+    },
+    "redhat": {
+        "total_count": 34,
+        "subproducts": {
+            "enterprise_linux ": 21,
+            "enterprise_virtualization_manager ": 1,
+            "jboss_enterprise_application_platform ": 1,
+            "jboss_community_application_server ": 1,
+            "jboss_enterprise_web_server ": 1,
+            "jboss_core_services ": 1,
+            "enterprise_linux_desktop ": 1,
+            "enterprise_linux_eus ": 1,
+            "enterprise_linux_server ": 1,
+            "enterprise_linux_server_aus ": 1,
+            "enterprise_linux_server_tus ": 1,
+            "enterprise_linux_workstation ": 1,
+            "certification ": 1,
+            "openshift_container_platform ": 1
+        }
+    },
+    "canonical": {
+        "total_count": 83,
+        "subproducts": {
+            "ubuntu_linux ": 83
+        }
+    },
+    "ruby-lang": {
+        "total_count": 15,
+        "subproducts": {
+            "ruby ": 14,
+            "trunk ": 1
+        }
+    },
+    "puppet": {
+        "total_count": 2,
+        "subproducts": {
+            "puppet_agent ": 1,
+            "puppet_enterprise ": 1
+        }
+    },
+    "freebsd": {
+        "total_count": 1,
+        "subproducts": {
+            "freebsd ": 1
+        }
+    },
+    "oracle": {
+        "total_count": 505,
+        "subproducts": {
+            "application_server ": 1,
+            "enterprise_manager_base_platform ": 3,
+            "enterprise_manager_for_storage_management ": 2,
+            "enterprise_manager_ops_center ": 14,
+            "http_server ": 4,
+            "jd_edwards_world_security ": 1,
+            "mysql ": 3,
+            "mysql_connectors ": 1,
+            "mysql_enterprise_monitor ": 3,
+            "mysql_workbench ": 1,
+            "peoplesoft_enterprise_peopletools ": 11,
+            "communications_diameter_signaling_router ": 13,
+            "application_testing_suite ": 4,
+            "big_data_discovery ": 1,
+            "communications_converged_application_server ": 1,
+            "communications_performance_intelligence_center ": 2,
+            "communications_policy_management ": 1,
+            "communications_services_gatekeeper ": 2,
+            "goldengate_for_big_data ": 3,
+            "health_sciences_information_manager ": 2,
+            "healthcare_master_person_index ": 3,
+            "insurance_calculation_engine ": 4,
+            "insurance_rules_palette ": 5,
+            "primavera_gateway ": 8,
+            "rapid_planning ": 4,
+            "retail_back_office ": 3,
+            "retail_central_office ": 3,
+            "retail_customer_insights ": 4,
+            "retail_integration_bus ": 24,
+            "retail_open_commerce_platform ": 3,
+            "retail_order_broker ": 9,
+            "retail_point-of-sale ": 2,
+            "retail_predictive_application_server ": 7,
+            "retail_returns_management ": 3,
+            "retail_xstore_point_of_service ": 3,
+            "service_architecture_leveraging_tuxedo ": 2,
+            "tape_library_acsls ": 2,
+            "weblogic_server ": 10,
+            "jdk ": 24,
+            "commerce_guided_search ": 3,
+            "communications_element_manager ": 20,
+            "communications_session_report_manager ": 15,
+            "communications_session_route_manager ": 17,
+            "flexcube_private_banking ": 7,
+            "banking_corporate_lending_process_management ": 3,
+            "banking_credit_facilities_process_management ": 3,
+            "banking_supply_chain_finance ": 3,
+            "banking_virtual_account_management ": 3,
+            "retail_customer_management_and_segmentation_foundation ": 1,
+            "retail_merchandising_system ": 5,
+            "instantis_enterprisetrack ": 13,
+            "zfs_storage_appliance_kit ": 4,
+            "sd-wan_aware ": 2,
+            "hyperion_infrastructure_technology ": 4,
+            "agile_plm ": 2,
+            "commerce_platform ": 1,
+            "communications_diameter_intelligence_hub ": 2,
+            "communications_messaging_server ": 2,
+            "outside_in_technology ": 1,
+            "retail_bulk_data_integration ": 1,
+            "retail_financial_integration ": 9,
+            "retail_service_backbone ": 11,
+            "agile_engineering_data_management ": 1,
+            "agile_plm_mcad_connector ": 1,
+            "autovue_for_agile_product_lifecycle_management ": 1,
+            "banking_deposits_and_lines_of_credit_servicing ": 1,
+            "banking_enterprise_default_management ": 2,
+            "banking_loans_servicing ": 1,
+            "banking_party_management ": 1,
+            "banking_payments ": 1,
+            "banking_platform ": 3,
+            "banking_trade_finance ": 1,
+            "banking_treasury_management ": 1,
+            "business_intelligence ": 1,
+            "communications_asap ": 1,
+            "communications_billing_and_revenue_management ": 2,
+            "communications_cloud_native_core_console ": 1,
+            "communications_cloud_native_core_network_function_cloud_native_environment ": 1,
+            "communications_cloud_native_core_network_repository_function ": 2,
+            "communications_cloud_native_core_network_slice_selection_function ": 1,
+            "communications_cloud_native_core_policy ": 1,
+            "communications_cloud_native_core_security_edge_protection_proxy ": 1,
+            "communications_cloud_native_core_service_communication_proxy ": 1,
+            "communications_cloud_native_core_unified_data_repository ": 1,
+            "communications_convergence ": 2,
+            "communications_convergent_charging_controller ": 2,
+            "communications_eagle_element_management_system ": 1,
+            "communications_eagle_ftp_table_base_retrieval ": 1,
+            "communications_evolved_communications_application_server ": 1,
+            "communications_interactive_session_recorder ": 2,
+            "communications_ip_service_activator ": 1,
+            "communications_network_charging_and_control ": 2,
+            "communications_network_integrity ": 2,
+            "communications_pricing_design_center ": 2,
+            "communications_service_broker ": 1,
+            "communications_unified_inventory_management ": 3,
+            "communications_user_data_repository ": 1,
+            "communications_webrtc_session_controller ": 2,
+            "data_integrator ": 2,
+            "e-business_suite ": 1,
+            "enterprise_manager_for_peoplesoft ": 2,
+            "financial_services_analytical_applications_infrastructure ": 1,
+            "financial_services_model_management_and_governance ": 3,
+            "flexcube_universal_banking ": 4,
+            "health_sciences_empirica_signal ": 2,
+            "health_sciences_inform ": 3,
+            "healthcare_data_repository ": 1,
+            "healthcare_foundation ": 1,
+            "healthcare_translational_research ": 2,
+            "hospitality_suite8 ": 2,
+            "hospitality_token_proxy_service ": 1,
+            "hyperion_bi\\+ ": 1,
+            "hyperion_data_relationship_management ": 1,
+            "hyperion_planning ": 1,
+            "hyperion_profitability_and_cost_management ": 1,
+            "hyperion_tax_provision ": 1,
+            "identity_management_suite ": 2,
+            "identity_manager_connector ": 1,
+            "insurance_data_gateway ": 1,
+            "insurance_insbridge_rating_and_underwriting ": 3,
+            "jdeveloper ": 1,
+            "managed_file_transfer ": 2,
+            "management_cloud_engine ": 1,
+            "payment_interface ": 2,
+            "primavera_p6_enterprise_project_portfolio_management ": 3,
+            "primavera_unifier ": 4,
+            "retail_data_extractor_for_merchandising ": 2,
+            "retail_eftlink ": 6,
+            "retail_invoice_matching ": 2,
+            "retail_order_management_system ": 1,
+            "retail_point-of-service ": 1,
+            "retail_price_management ": 5,
+            "retail_store_inventory_management ": 6,
+            "siebel_ui_framework ": 1,
+            "sql_developer ": 1,
+            "taleo_platform ": 1,
+            "utilities_framework ": 4,
+            "webcenter_portal ": 2,
+            "webcenter_sites ": 2,
+            "graalvm ": 17,
+            "jre ": 23,
+            "identity_manager ": 2,
+            "storagetek_tape_analytics_sw_tool ": 1
+        }
+    },
+    "netapp": {
+        "total_count": 98,
+        "subproducts": {
+            "active_iq_unified_manager ": 2,
+            "e-series_performance_analyzer ": 1,
+            "oncommand_insight ": 7,
+            "oncommand_workflow_automation ": 7,
+            "smi-s_provider ": 1,
+            "snapcenter ": 1,
+            "steelstore_cloud_integrated_storage ": 1,
+            "clustered_data_ontap ": 12,
+            "storage_automation_store ": 5,
+            "santricity_cloud_connector ": 4,
+            "storagegrid ": 4,
+            "cloud_backup ": 2,
+            "oncommand_unified_manager_core_package ": 1,
+            "cloud_manager ": 1,
+            "bluexp ": 1,
+            "7-mode_transition_tool ": 6,
+            "cloud_insights_acquisition_unit ": 6,
+            "cloud_secure_agent ": 6,
+            "e-series_santricity_os_controller ": 7,
+            "e-series_santricity_storage_manager ": 6,
+            "e-series_santricity_unified_manager ": 6,
+            "santricity_storage_plugin ": 6,
+            "santricity_web_services_proxy ": 5
+        }
+    },
+    "broadcom": {
+        "total_count": 2,
+        "subproducts": {
+            "fabric_operating_system ": 1,
+            "brocade_fabric_operating_system ": 1
+        }
+    },
+    "opensuse": {
+        "total_count": 24,
+        "subproducts": {
+            "leap ": 24
+        }
+    },
+    "jdedwards": {
+        "total_count": 1,
+        "subproducts": {
+            "enterpriseone ": 1
+        }
+    },
+    "tenable": {
+        "total_count": 16,
+        "subproducts": {
+            "log_correlation_engine ": 1,
+            "tenable.sc ": 11,
+            "securitycenter ": 4
+        }
+    },
+    "php": {
+        "total_count": 68,
+        "subproducts": {
+            "php ": 68
+        }
+    },
+    "openvpn": {
+        "total_count": 1,
+        "subproducts": {
+            "openvpn ": 1
+        }
+    },
+    "itarian": {
+        "total_count": 1,
+        "subproducts": {
+            "endpoint_manager_communication_client ": 1
+        }
+    },
+    "vmware": {
+        "total_count": 64,
+        "subproducts": {
+            "vrealize_operations_for_horizon ": 1,
+            "vrealize_operations_for_published_applications ": 1,
+            "spring_framework ": 2,
+            "spring_integration ": 4,
+            "vcloud_director ": 4,
+            "gemfire ": 6,
+            "tanzu_gemfire_for_virtual_machines ": 5,
+            "tanzu_application_service_for_virtual_machines ": 7,
+            "operations_manager ": 3,
+            "single_sign-on_for_tanzu ": 3,
+            "identity_manager ": 6,
+            "one_access ": 4,
+            "access_connector ": 6,
+            "identity_manager_connector ": 8,
+            "isolation_segment ": 4
+        }
+    },
+    "nsclient": {
+        "total_count": 1,
+        "subproducts": {
+            "nsclient\\+\\+ ": 1
+        }
+    },
+    "pivotal_software": {
+        "total_count": 5,
+        "subproducts": {
+            "windows_stemcells ": 2,
+            "spring_framework ": 1,
+            "concourse ": 2
+        }
+    },
+    "coreftp": {
+        "total_count": 1,
+        "subproducts": {
+            "core_ftp ": 1
+        }
+    },
+    "corsair": {
+        "total_count": 5,
+        "subproducts": {
+            "corsair_utility_engine ": 5
+        }
+    },
+    "securenvoy": {
+        "total_count": 1,
+        "subproducts": {
+            "securaccess ": 1
+        }
+    },
+    "apache": {
+        "total_count": 177,
+        "subproducts": {
+            "tomcat ": 48,
+            "orc ": 1,
+            "santuario_xml_security_for_java ": 4,
+            "cxf ": 5,
+            "http_server ": 100,
+            "couchdb ": 2,
+            "struts ": 1,
+            "karaf ": 1,
+            "airflow ": 6,
+            "unomi ": 1,
+            "ofbiz ": 1,
+            "tomee ": 1,
+            "log4j ": 3,
+            "openoffice ": 2,
+            "commons_text ": 1
+        }
+    },
+    "libreoffice": {
+        "total_count": 4,
+        "subproducts": {
+            "libreoffice ": 4
+        }
+    },
+    "whatsapp": {
+        "total_count": 7,
+        "subproducts": {
+            "whatsapp ": 7
+        }
+    },
+    "gallagher": {
+        "total_count": 1,
+        "subproducts": {
+            "command_centre ": 1
+        }
+    },
+    "code42": {
+        "total_count": 1,
+        "subproducts": {
+            "code42 ": 1
+        }
+    },
+    "tencent": {
+        "total_count": 2,
+        "subproducts": {
+            "qqbrowser ": 1,
+            "gameloop ": 1
+        }
+    },
+    "igniterealtime": {
+        "total_count": 1,
+        "subproducts": {
+            "spark ": 1
+        }
+    },
+    "voten": {
+        "total_count": 1,
+        "subproducts": {
+            "voten ": 1
+        }
+    },
+    "cloudfoundry": {
+        "total_count": 2,
+        "subproducts": {
+            "cf-release ": 1,
+            "java_buildpack ": 1
+        }
+    },
+    "naukri_clone_script_project": {
+        "total_count": 3,
+        "subproducts": {
+            "naukri_clone_script ": 3
+        }
+    },
+    "advanced_real_estate_script_project": {
+        "total_count": 3,
+        "subproducts": {
+            "advanced_real_estate_script ": 3
+        }
+    },
+    "hotel_booking_script_project": {
+        "total_count": 2,
+        "subproducts": {
+            "hotel_booking_script ": 2
+        }
+    },
+    "website_seller_script_project": {
+        "total_count": 3,
+        "subproducts": {
+            "website_seller_script ": 3
+        }
+    },
+    "intelliants": {
+        "total_count": 1,
+        "subproducts": {
+            "subrion_cms ": 1
+        }
+    },
+    "paloaltonetworks": {
+        "total_count": 318,
+        "subproducts": {
+            "pan-os ": 160,
+            "globalprotect ": 24,
+            "expedition ": 1,
+            "cortex_xdr_agent ": 55,
+            "prisma_cloud ": 11,
+            "cortex_xsoar ": 60,
+            "prisma_access ": 7
+        }
+    },
+    "advance_b2b_script_project": {
+        "total_count": 4,
+        "subproducts": {
+            "advance_b2b_script ": 4
+        }
+    },
+    "chartered_accountant_\\": {
+        "total_count": 5,
+        "subproducts": {
+            "_auditor_website_project ": 5
+        }
+    },
+    "entrepreneur_job_portal_script_project": {
+        "total_count": 5,
+        "subproducts": {
+            "entrepreneur_job_portal_script ": 5
+        }
+    },
+    "axiomsl": {
+        "total_count": 1,
+        "subproducts": {
+            "axiom ": 1
+        }
+    },
+    "smartbear": {
+        "total_count": 2,
+        "subproducts": {
+            "readyapi ": 2
+        }
+    },
+    "quadbase": {
+        "total_count": 1,
+        "subproducts": {
+            "espressreport_es ": 1
+        }
+    },
+    "espocrm": {
+        "total_count": 5,
+        "subproducts": {
+            "espocrm ": 5
+        }
+    },
+    "nsa": {
+        "total_count": 1,
+        "subproducts": {
+            "ghidra ": 1
+        }
+    },
+    "maxum": {
+        "total_count": 1,
+        "subproducts": {
+            "rumpus ": 1
+        }
+    },
+    "ciprianmp": {
+        "total_count": 1,
+        "subproducts": {
+            "phpmychat-plus ": 1
+        }
+    },
+    "hp": {
+        "total_count": 10,
+        "subproducts": {
+            "storage_essentials ": 1,
+            "asset_manager ": 6,
+            "asset_manager_cloudsystem_chargeback ": 1,
+            "sitescope ": 2
+        }
+    },
+    "facebook": {
+        "total_count": 7,
+        "subproducts": {
+            "thrift ": 1,
+            "hermes ": 6
+        }
+    },
+    "collaboraoffice": {
+        "total_count": 1,
+        "subproducts": {
+            "collabora_online_development_edition ": 1
+        }
+    },
+    "rukovoditel": {
+        "total_count": 1,
+        "subproducts": {
+            "rukovoditel ": 1
+        }
+    },
+    "rittal": {
+        "total_count": 1,
+        "subproducts": {
+            "cmc_pu_iii_7030.000_firmware ": 1
+        }
+    },
+    "olimpoks": {
+        "total_count": 1,
+        "subproducts": {
+            "olimpok ": 1
+        }
+    },
+    "pryaniki": {
+        "total_count": 1,
+        "subproducts": {
+            "pryaniki ": 1
+        }
+    },
+    "visualware": {
+        "total_count": 1,
+        "subproducts": {
+            "myconnection_server ": 1
+        }
+    },
+    "centreon": {
+        "total_count": 1,
+        "subproducts": {
+            "centreon ": 1
+        }
+    },
+    "mcafee": {
+        "total_count": 14,
+        "subproducts": {
+            "epolicy_orchestrator ": 14
+        }
+    },
+    "sonicwall": {
+        "total_count": 9,
+        "subproducts": {
+            "email_security ": 1,
+            "network_security_manager ": 2,
+            "web_application_firewall ": 1,
+            "6bk1602-0aa12-0tp0_firmware ": 1,
+            "6bk1602-0aa22-0tp0_firmware ": 1,
+            "6bk1602-0aa32-0tp0_firmware ": 1,
+            "6bk1602-0aa42-0tp0_firmware ": 1,
+            "6bk1602-0aa52-0tp0_firmware ": 1
+        }
+    },
+    "northern.tech": {
+        "total_count": 2,
+        "subproducts": {
+            "cfengine ": 2
+        }
+    },
+    "juniper": {
+        "total_count": 5,
+        "subproducts": {
+            "security_threat_response_manager ": 5
+        }
+    },
+    "apache software foundation": {
+        "total_count": 2,
+        "subproducts": {
+            "apache streampipes ": 2
+        }
+    },
+    "zohocorp": {
+        "total_count": 947,
+        "subproducts": {
+            "manageengine_servicedesk_plus ": 290,
+            "manageengine_adselfservice_plus ": 328,
+            "manageengine_netflow_analyzer ": 6,
+            "manageengine_assetexplorer ": 1,
+            "manageengine_datasecurity_plus ": 24,
+            "manageengine_remote_access_plus ": 2,
+            "manageengine_applications_manager ": 66,
+            "manageengine_password_manager_pro ": 4,
+            "manageengine_key_manager_plus ": 17,
+            "manageengine_servicedesk_plus_msp ": 181,
+            "manageengine_admanager_plus ": 28
+        }
+    },
+    "atlassian": {
+        "total_count": 5,
+        "subproducts": {
+            "confluence_data_center ": 2,
+            "confluence_server ": 2,
+            "html_include_and_replace_macro ": 1
+        }
+    },
+    "linuxfoundation": {
+        "total_count": 8,
+        "subproducts": {
+            "harbor ": 8
+        }
+    },
+    "pivotal": {
+        "total_count": 4,
+        "subproducts": {
+            "vmware_harbor_registry ": 4
+        }
+    },
+    "fortinet": {
+        "total_count": 3,
+        "subproducts": {
+            "fortios ": 3
+        }
+    },
+    "trendmicro": {
+        "total_count": 1,
+        "subproducts": {
+            "deep_discovery_inspector ": 1
+        }
+    },
+    "cisco": {
+        "total_count": 17,
+        "subproducts": {
+            "rv340w_firmware ": 3,
+            "rv340_firmware ": 3,
+            "rv345_firmware ": 3,
+            "rv345p_firmware ": 3,
+            "rv160_firmware ": 1,
+            "rv160w_firmware ": 1,
+            "rv260_firmware ": 1,
+            "rv260p_firmware ": 1,
+            "rv260w_firmware ": 1
+        }
+    },
+    "zimbra": {
+        "total_count": 76,
+        "subproducts": {
+            "collaboration_server ": 36,
+            "collaboration ": 40
+        }
+    },
+    "sap": {
+        "total_count": 5,
+        "subproducts": {
+            "netweaver ": 4,
+            "netweaver_application_server ": 1
+        }
+    },
+    "libslirp_project": {
+        "total_count": 1,
+        "subproducts": {
+            "libslirp ": 1
+        }
+    },
+    "qemu": {
+        "total_count": 1,
+        "subproducts": {
+            "qemu ": 1
+        }
+    },
+    "sapphireims": {
+        "total_count": 1,
+        "subproducts": {
+            "sapphireims ": 1
+        }
+    },
+    "apple": {
+        "total_count": 70,
+        "subproducts": {
+            "apple_tv ": 2,
+            "iphone_os ": 10,
+            "mac_os_x ": 19,
+            "watchos ": 7,
+            "tvos ": 7,
+            "ipados ": 5,
+            "icloud ": 2,
+            "itunes ": 2,
+            "safari ": 6,
+            "macos ": 8,
+            "ipad_os ": 2
+        }
+    },
+    "azul": {
+        "total_count": 39,
+        "subproducts": {
+            "zulu ": 39
+        }
+    },
+    "tiktok": {
+        "total_count": 8,
+        "subproducts": {
+            "tiktok ": 8
+        }
+    },
+    "nipper-ng_project": {
+        "total_count": 1,
+        "subproducts": {
+            "nipper-ng ": 1
+        }
+    },
+    "f-secure": {
+        "total_count": 2,
+        "subproducts": {
+            "safe ": 2
+        }
+    },
+    "navercorp": {
+        "total_count": 1,
+        "subproducts": {
+            "whale ": 1
+        }
+    },
+    "rcdevs": {
+        "total_count": 2,
+        "subproducts": {
+            "openotp_token ": 2
+        }
+    },
+    "backblaze": {
+        "total_count": 4,
+        "subproducts": {
+            "backblaze ": 4
+        }
+    },
+    "keybase": {
+        "total_count": 2,
+        "subproducts": {
+            "keybase ": 2
+        }
+    },
+    "foxit": {
+        "total_count": 6,
+        "subproducts": {
+            "pdf_editor ": 3,
+            "pdf_reader ": 3
+        }
+    },
+    "signal": {
+        "total_count": 2,
+        "subproducts": {
+            "signal-desktop ": 2
+        }
+    },
+    "realtek": {
+        "total_count": 3,
+        "subproducts": {
+            "rtl8195am_firmware ": 3
+        }
+    },
+    "openslp": {
+        "total_count": 1,
+        "subproducts": {
+            "openslp ": 1
+        }
+    },
+    "tp-link": {
+        "total_count": 21,
+        "subproducts": {
+            "archer_c1200_firmware ": 6,
+            "tl-sc_3130_firmware ": 1,
+            "tl-sc_3130g_firmware ": 2,
+            "tl-sc_3171g_firmware ": 2,
+            "tl-sc_4171g_firmware ": 2,
+            "td-w9977_firmware ": 1,
+            "tl-wa801nd_firmware ": 1,
+            "tl-wa801n_firmware ": 1,
+            "tl-wr802n_firmware ": 2,
+            "archer-c3150_firmware ": 1,
+            "wn886n_firmware ": 1,
+            "tl-wr840n_firmware ": 1
+        }
+    },
+    "netgear": {
+        "total_count": 3,
+        "subproducts": {
+            "d7800_firmware ": 1,
+            "r6400v2_firmware ": 1,
+            "r6700v3_firmware ": 1
+        }
+    },
+    "ajax_upload_for_gravity_forms_project": {
+        "total_count": 1,
+        "subproducts": {
+            "ajax_upload_for_gravity_forms ": 1
+        }
+    },
+    "wordpress": {
+        "total_count": 2,
+        "subproducts": {
+            "wordpress ": 2
+        }
+    },
+    "fresh-media": {
+        "total_count": 1,
+        "subproducts": {
+            "brute_force_login_protection ": 1
+        }
+    },
+    "3cx": {
+        "total_count": 3,
+        "subproducts": {
+            "live_chat ": 3
+        }
+    },
+    "ultimatemember": {
+        "total_count": 3,
+        "subproducts": {
+            "user_profile_\\&_membership ": 2,
+            "ultimate_member ": 1
+        }
+    },
+    "designchemical": {
+        "total_count": 1,
+        "subproducts": {
+            "social_network_tabs ": 1
+        }
+    },
+    "woocommerce": {
+        "total_count": 4,
+        "subproducts": {
+            "paypal_checkout_payment_gateway ": 2,
+            "payu_india_payment_gateway ": 1,
+            "woocommerce ": 1
+        }
+    },
+    "xpertsol": {
+        "total_count": 1,
+        "subproducts": {
+            "server_status_by_hostname\\/ip ": 1
+        }
+    },
+    "vsourz": {
+        "total_count": 1,
+        "subproducts": {
+            "advanced_cf7_db ": 1
+        }
+    },
+    "duckdev": {
+        "total_count": 1,
+        "subproducts": {
+            "404_to_301 ": 1
+        }
+    },
+    "strategy11": {
+        "total_count": 1,
+        "subproducts": {
+            "formidable_form_builder ": 1
+        }
+    },
+    "easyappointments": {
+        "total_count": 1,
+        "subproducts": {
+            "easy\\!appointments ": 1
+        }
+    },
+    "elementor": {
+        "total_count": 1,
+        "subproducts": {
+            "elementor_page_builder ": 1
+        }
+    },
+    "xnau": {
+        "total_count": 1,
+        "subproducts": {
+            "participants_database ": 1
+        }
+    },
+    "semperplugins": {
+        "total_count": 2,
+        "subproducts": {
+            "all_in_one_seo_pack ": 2
+        }
+    },
+    "iframe_project": {
+        "total_count": 1,
+        "subproducts": {
+            "iframe ": 1
+        }
+    },
+    "simplefilelist": {
+        "total_count": 1,
+        "subproducts": {
+            "simple-file-list ": 1
+        }
+    },
+    "xcloner": {
+        "total_count": 1,
+        "subproducts": {
+            "xcloner ": 1
+        }
+    },
+    "thimpress": {
+        "total_count": 1,
+        "subproducts": {
+            "wp_hotel_booking ": 1
+        }
+    },
+    "fivestarplugins": {
+        "total_count": 1,
+        "subproducts": {
+            "five_star_restaurant_menu ": 1
+        }
+    },
+    "goprayer": {
+        "total_count": 1,
+        "subproducts": {
+            "wp_prayer ": 1
+        }
+    },
+    "podsfoundation": {
+        "total_count": 2,
+        "subproducts": {
+            "pods ": 2
+        }
+    },
+    "ait-pro": {
+        "total_count": 1,
+        "subproducts": {
+            "bulletproof_security ": 1
+        }
+    },
+    "progress": {
+        "total_count": 6,
+        "subproducts": {
+            "moveit_transfer ": 6
+        }
+    },
+    "dlink": {
+        "total_count": 113,
+        "subproducts": {
+            "dir-601_firmware ": 1,
+            "dir-817lw_firmware ": 1,
+            "dir-816l_firmware ": 1,
+            "dir-816_firmware ": 1,
+            "dir-850l_firmware ": 1,
+            "dir-868l_firmware ": 1,
+            "dir-300_firmware ": 1,
+            "dir-600_firmware ": 1,
+            "dir-645_firmware ": 1,
+            "dir-845_firmware ": 1,
+            "dir-865_firmware ": 1,
+            "dir-600m_firmware ": 4,
+            "dir-615_firmware ": 4,
+            "dcs-3411_firmware ": 4,
+            "dcs-3430_firmware ": 4,
+            "dcs-5605_firmware ": 4,
+            "dcs-5635_firmware ": 4,
+            "dcs-1100l_firmware ": 4,
+            "dcs-1130l_firmware ": 4,
+            "dcs-1100_firmware ": 8,
+            "dcs-1130_firmware ": 8,
+            "dcs-2102_firmware ": 9,
+            "dcs-2121_firmware ": 9,
+            "dcs-3410_firmware ": 4,
+            "dcs-5230_firmware ": 4,
+            "dcs-5230l_firmware ": 4,
+            "dcs-6410_firmware ": 4,
+            "dcs-7410_firmware ": 4,
+            "dcs-7510_firmware ": 4,
+            "wcs-1100_firmware ": 4,
+            "dir-2640-us_firmware ": 4,
+            "dsl-2730e_firmware ": 1,
+            "dir-615_j1_firmware ": 1,
+            "dir-615_t1_firmware ": 1,
+            "dir-615jx10_firmware ": 1
+        }
+    },
+    "d-link": {
+        "total_count": 1,
+        "subproducts": {
+            "dsl-2640b_firmware ": 1
+        }
+    },
+    "owncloud": {
+        "total_count": 10,
+        "subproducts": {
+            "owncloud ": 5,
+            "owncloud_desktop_client ": 2,
+            "files_antivirus ": 2,
+            "user_ldap ": 1
+        }
+    },
+    "jenkins": {
+        "total_count": 1,
+        "subproducts": {
+            "markdown_formatter ": 1
+        }
+    },
+    "connectwise": {
+        "total_count": 5,
+        "subproducts": {
+            "connectwise_automate ": 2,
+            "automate ": 2,
+            "connectwise ": 1
+        }
+    },
+    "adobe": {
+        "total_count": 6,
+        "subproducts": {
+            "acrobat ": 1,
+            "acrobat_dc ": 2,
+            "acrobat_reader ": 1,
+            "acrobat_reader_dc ": 2
+        }
+    },
+    "oniguruma_project": {
+        "total_count": 2,
+        "subproducts": {
+            "oniguruma ": 2
+        }
+    },
+    "cisofy": {
+        "total_count": 1,
+        "subproducts": {
+            "lynis ": 1
+        }
+    },
+    "git-scm": {
+        "total_count": 11,
+        "subproducts": {
+            "git ": 11
+        }
+    },
+    "gitea": {
+        "total_count": 7,
+        "subproducts": {
+            "gitea ": 7
+        }
+    },
+    "mikrotik": {
+        "total_count": 1,
+        "subproducts": {
+            "routeros ": 1
+        }
+    },
+    "zulip": {
+        "total_count": 1,
+        "subproducts": {
+            "zulip ": 1
+        }
+    },
+    "radare": {
+        "total_count": 1,
+        "subproducts": {
+            "radare2 ": 1
+        }
+    },
+    "vim": {
+        "total_count": 3,
+        "subproducts": {
+            "vim ": 3
+        }
+    },
+    "weave.works": {
+        "total_count": 4,
+        "subproducts": {
+            "gitops ": 4
+        }
+    },
+    "rubyonrails": {
+        "total_count": 1,
+        "subproducts": {
+            "rails ": 1
+        }
+    },
+    "modx": {
+        "total_count": 1,
+        "subproducts": {
+            "modx_revolution ": 1
+        }
+    },
+    "freelancewebdesignerchennai": {
+        "total_count": 1,
+        "subproducts": {
+            "job_portal ": 1
+        }
+    },
+    "readymadeb2bscript": {
+        "total_count": 1,
+        "subproducts": {
+            "basic_b2b ": 1
+        }
+    },
+    "car_rental_script_project": {
+        "total_count": 3,
+        "subproducts": {
+            "car_rental_script ": 3
+        }
+    },
+    "myperfectresume_\\/_jobhero_\\/_resume_clone_script_project": {
+        "total_count": 1,
+        "subproducts": {
+            "myperfectresume_\\/_jobhero_\\/_resume_clone_script ": 1
+        }
+    },
+    "consumer_reviews_script_project": {
+        "total_count": 2,
+        "subproducts": {
+            "consumer_reviews_script ": 2
+        }
+    },
+    "charity_foundation_script_project": {
+        "total_count": 1,
+        "subproducts": {
+            "charity_foundation_script ": 1
+        }
+    },
+    "charity_donation_script_project": {
+        "total_count": 1,
+        "subproducts": {
+            "charity_donation_script ": 1
+        }
+    },
+    "advance_crowdfunding_script_project": {
+        "total_count": 1,
+        "subproducts": {
+            "advance_crowdfunding_script ": 1
+        }
+    },
+    "basic_b2b_script_project": {
+        "total_count": 3,
+        "subproducts": {
+            "basic_b2b_script ": 3
+        }
+    },
+    "property_rental_software_project": {
+        "total_count": 1,
+        "subproducts": {
+            "property_rental_software ": 1
+        }
+    },
+    "image_sharing_script_project": {
+        "total_count": 2,
+        "subproducts": {
+            "image_sharing_script ": 2
+        }
+    },
+    "rental_bike_script_project": {
+        "total_count": 3,
+        "subproducts": {
+            "rental_bike_script ": 3
+        }
+    },
+    "opensource_classified_ads_script_project": {
+        "total_count": 3,
+        "subproducts": {
+            "opensource_classified_ads_script ": 3
+        }
+    },
+    "comsenz": {
+        "total_count": 2,
+        "subproducts": {
+            "discuz\\! ": 2
+        }
+    },
+    "codersclub": {
+        "total_count": 1,
+        "subproducts": {
+            "discuz\\!ml ": 1
+        }
+    },
+    "schlix": {
+        "total_count": 2,
+        "subproducts": {
+            "cms ": 2
+        }
+    },
+    "phpbb": {
+        "total_count": 1,
+        "subproducts": {
+            "phpbb ": 1
+        }
+    },
+    "smarty": {
+        "total_count": 1,
+        "subproducts": {
+            "smarty ": 1
+        }
+    },
+    "zend": {
+        "total_count": 3,
+        "subproducts": {
+            "zend_framework ": 3
+        }
+    },
+    "maleck": {
+        "total_count": 1,
+        "subproducts": {
+            "image_uploader_and_browser_for_ckeditor ": 1
+        }
+    },
+    "phpldapadmin_project": {
+        "total_count": 1,
+        "subproducts": {
+            "phpldapadmin ": 1
+        }
+    },
+    "apereo": {
+        "total_count": 2,
+        "subproducts": {
+            "phpcas ": 2
+        }
+    },
+    "phpgurukul": {
+        "total_count": 7,
+        "subproducts": {
+            "dairy_farm_shop_management_system ": 2,
+            "daily_expense_tracker_system ": 2,
+            "zoo_management_system ": 1,
+            "hospital_management_system ": 1,
+            "hostel_management_system ": 1
+        }
+    },
+    "artica": {
+        "total_count": 1,
+        "subproducts": {
+            "pandora_fms ": 1
+        }
+    },
+    "pi-hole": {
+        "total_count": 1,
+        "subproducts": {
+            "pi-hole ": 1
+        }
+    },
+    "locutus": {
+        "total_count": 1,
+        "subproducts": {
+            "locutus_php ": 1
+        }
+    },
+    "ritecms": {
+        "total_count": 1,
+        "subproducts": {
+            "ritecms ": 1
+        }
+    },
+    "yourls": {
+        "total_count": 1,
+        "subproducts": {
+            "yourls ": 1
+        }
+    },
+    "getlaminas": {
+        "total_count": 1,
+        "subproducts": {
+            "laminas-http ": 1
+        }
+    },
+    "zenitel": {
+        "total_count": 1,
+        "subproducts": {
+            "alphacom_xe_audio_server ": 1
+        }
+    },
+    "apartment_visitors_management_system_project": {
+        "total_count": 1,
+        "subproducts": {
+            "apartment_visitors_management_system ": 1
+        }
+    },
+    "engineers_online_portal_project": {
+        "total_count": 7,
+        "subproducts": {
+            "engineers_online_portal ": 7
+        }
+    },
+    "online_event_booking_and_reservation_system_project": {
+        "total_count": 3,
+        "subproducts": {
+            "online_event_booking_and_reservation_system ": 3
+        }
+    },
+    "oretnom23": {
+        "total_count": 1,
+        "subproducts": {
+            "simple_cold_storage_management_system ": 1
+        }
+    },
+    "php_everywhere_project": {
+        "total_count": 3,
+        "subproducts": {
+            "php_everywhere ": 3
+        }
+    },
+    "pluxml": {
+        "total_count": 1,
+        "subproducts": {
+            "pluxml ": 1
+        }
+    },
+    "wptaskforce": {
+        "total_count": 1,
+        "subproducts": {
+            "wpcargo_track_\\&_trace ": 1
+        }
+    },
+    "contec": {
+        "total_count": 1,
+        "subproducts": {
+            "sv-cpt-mc310_firmware ": 1
+        }
+    },
+    "snapcreek": {
+        "total_count": 1,
+        "subproducts": {
+            "duplicator ": 1
+        }
+    },
+    "laravel-admin": {
+        "total_count": 1,
+        "subproducts": {
+            "laravel-admin ": 1
+        }
+    },
+    "suse": {
+        "total_count": 4,
+        "subproducts": {
+            "suse_linux_enterprise_desktop ": 1,
+            "suse_linux_enterprise_server ": 3
+        }
+    },
+    "openbsd": {
+        "total_count": 3,
+        "subproducts": {
+            "openssh ": 3
+        }
+    }
+}
