@@ -1,0 +1,126 @@
+{
+    "google": {
+        "total_count": 5,
+        "subproducts": {
+            "chrome ": 5
+        }
+    },
+    "fedoraproject": {
+        "total_count": 16,
+        "subproducts": {
+            "fedora ": 16
+        }
+    },
+    "microsoft": {
+        "total_count": 3,
+        "subproducts": {
+            "exchange_server ": 3
+        }
+    },
+    "fortinet": {
+        "total_count": 21,
+        "subproducts": {
+            "fortiproxy ": 7,
+            "fortios ": 9,
+            "fortiswitchmanager ": 2,
+            "fortipam ": 3
+        }
+    },
+    "trendmicro": {
+        "total_count": 4,
+        "subproducts": {
+            "apex_one ": 2,
+            "worry-free_business_security ": 1,
+            "worry-free_business_security_services ": 1
+        }
+    },
+    "apple": {
+        "total_count": 28,
+        "subproducts": {
+            "ipados ": 9,
+            "iphone_os ": 9,
+            "watchos ": 1,
+            "macos ": 4,
+            "safari ": 3,
+            "visionos ": 2
+        }
+    },
+    "debian": {
+        "total_count": 4,
+        "subproducts": {
+            "debian_linux ": 4
+        }
+    },
+    "oracle": {
+        "total_count": 4,
+        "subproducts": {
+            "graalvm ": 2,
+            "jdk ": 1,
+            "jre ": 1
+        }
+    },
+    "netapp": {
+        "total_count": 6,
+        "subproducts": {
+            "active_iq_unified_manager ": 2,
+            "cloud_insights_acquisition_unit ": 1,
+            "cloud_insights_storage_workload_security_agent ": 1,
+            "oncommand_insight ": 1,
+            "oncommand_workflow_automation ": 1
+        }
+    },
+    "webkitgtk": {
+        "total_count": 2,
+        "subproducts": {
+            "webkitgtk\\+ ": 2
+        }
+    },
+    "dlink": {
+        "total_count": 46,
+        "subproducts": {
+            "dns-320l_firmware ": 6,
+            "dns-120_firmware ": 2,
+            "dnr-202l_firmware ": 2,
+            "dns-315l_firmware ": 2,
+            "dns-320_firmware ": 2,
+            "dns-320lw_firmware ": 2,
+            "dns-321_firmware ": 2,
+            "dnr-322l_firmware ": 2,
+            "dns-323_firmware ": 2,
+            "dns-325_firmware ": 2,
+            "dns-326_firmware ": 2,
+            "dns-327l_firmware ": 4,
+            "dnr-326_firmware ": 2,
+            "dns-340l_firmware ": 2,
+            "dns-343_firmware ": 2,
+            "dns-345_firmware ": 2,
+            "dns-726-4_firmware ": 2,
+            "dns-1100-4_firmware ": 2,
+            "dns-1200-05_firmware ": 2,
+            "dns-1550-04_firmware ": 2
+        }
+    },
+    "ivanti": {
+        "total_count": 127,
+        "subproducts": {
+            "connect_secure ": 60,
+            "policy_secure ": 46,
+            "neurons_for_zero-trust_access ": 12,
+            "endpoint_manager ": 7,
+            "cloud_services_appliance ": 2
+        }
+    },
+    "qlik": {
+        "total_count": 72,
+        "subproducts": {
+            "qlik_sense ": 72
+        }
+    },
+    "paloaltonetworks": {
+        "total_count": 53,
+        "subproducts": {
+            "expedition ": 1,
+            "pan-os ": 52
+        }
+    }
+}
