@@ -1,0 +1,45 @@
+{
+    "google": {
+        "total_count": 2,
+        "subproducts": {
+            "chrome ": 2
+        }
+    },
+    "fedoraproject": {
+        "total_count": 5,
+        "subproducts": {
+            "fedora ": 5
+        }
+    },
+    "dlink": {
+        "total_count": 23,
+        "subproducts": {
+            "dns-320l_firmware ": 3,
+            "dns-120_firmware ": 1,
+            "dnr-202l_firmware ": 1,
+            "dns-315l_firmware ": 1,
+            "dns-320_firmware ": 1,
+            "dns-320lw_firmware ": 1,
+            "dns-321_firmware ": 1,
+            "dnr-322l_firmware ": 1,
+            "dns-323_firmware ": 1,
+            "dns-325_firmware ": 1,
+            "dns-326_firmware ": 1,
+            "dns-327l_firmware ": 2,
+            "dnr-326_firmware ": 1,
+            "dns-340l_firmware ": 1,
+            "dns-343_firmware ": 1,
+            "dns-345_firmware ": 1,
+            "dns-726-4_firmware ": 1,
+            "dns-1100-4_firmware ": 1,
+            "dns-1200-05_firmware ": 1,
+            "dns-1550-04_firmware ": 1
+        }
+    },
+    "ivanti": {
+        "total_count": 2,
+        "subproducts": {
+            "cloud_services_appliance ": 2
+        }
+    }
+}
