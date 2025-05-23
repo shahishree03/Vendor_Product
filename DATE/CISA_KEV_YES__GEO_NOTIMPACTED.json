@@ -1,8 +1,8 @@
 {
-    "fedoraproject": {
+    "google": {
         "total_counts": 2,
         "subproducts": {
-            "fedora": {
+            "chrome": {
                 "counts": 2,
                 "published_dates": [
                     "2024-05-14",
@@ -14,10 +14,10 @@
             }
         }
     },
-    "google": {
+    "fedoraproject": {
         "total_counts": 2,
         "subproducts": {
-            "chrome": {
+            "fedora": {
                 "counts": 2,
                 "published_dates": [
                     "2024-05-14",
@@ -41,70 +41,7 @@
                     "2024-11-29"
                 ]
             },
-            "dns-323_firmware": {
-                "counts": 1,
-                "published_dates": [
-                    "2024-04-04"
-                ],
-                "last_modified_dates": [
-                    "2024-11-29"
-                ]
-            },
-            "dns-321_firmware": {
-                "counts": 1,
-                "published_dates": [
-                    "2024-04-04"
-                ],
-                "last_modified_dates": [
-                    "2024-11-29"
-                ]
-            },
-            "dns-340l_firmware": {
-                "counts": 1,
-                "published_dates": [
-                    "2024-04-04"
-                ],
-                "last_modified_dates": [
-                    "2024-11-29"
-                ]
-            },
-            "dns-1100-4_firmware": {
-                "counts": 1,
-                "published_dates": [
-                    "2024-04-04"
-                ],
-                "last_modified_dates": [
-                    "2024-11-29"
-                ]
-            },
-            "dns-320_firmware": {
-                "counts": 1,
-                "published_dates": [
-                    "2024-04-04"
-                ],
-                "last_modified_dates": [
-                    "2024-11-29"
-                ]
-            },
-            "dns-325_firmware": {
-                "counts": 1,
-                "published_dates": [
-                    "2024-04-04"
-                ],
-                "last_modified_dates": [
-                    "2024-11-29"
-                ]
-            },
-            "dns-320l_firmware": {
-                "counts": 1,
-                "published_dates": [
-                    "2024-04-04"
-                ],
-                "last_modified_dates": [
-                    "2024-11-29"
-                ]
-            },
-            "dns-320lw_firmware": {
+            "dnr-326_firmware": {
                 "counts": 1,
                 "published_dates": [
                     "2024-04-04"
@@ -131,15 +68,6 @@
                     "2024-11-29"
                 ]
             },
-            "dnr-202l_firmware": {
-                "counts": 1,
-                "published_dates": [
-                    "2024-04-04"
-                ],
-                "last_modified_dates": [
-                    "2024-11-29"
-                ]
-            },
             "dns-315l_firmware": {
                 "counts": 1,
                 "published_dates": [
@@ -158,7 +86,7 @@
                     "2024-11-29"
                 ]
             },
-            "dns-1550-04_firmware": {
+            "dns-340l_firmware": {
                 "counts": 1,
                 "published_dates": [
                     "2024-04-04"
@@ -167,7 +95,7 @@
                     "2024-11-29"
                 ]
             },
-            "dnr-326_firmware": {
+            "dns-320l_firmware": {
                 "counts": 1,
                 "published_dates": [
                     "2024-04-04"
@@ -177,6 +105,33 @@
                 ]
             },
             "dns-326_firmware": {
+                "counts": 1,
+                "published_dates": [
+                    "2024-04-04"
+                ],
+                "last_modified_dates": [
+                    "2024-11-29"
+                ]
+            },
+            "dns-343_firmware": {
+                "counts": 1,
+                "published_dates": [
+                    "2024-04-04"
+                ],
+                "last_modified_dates": [
+                    "2024-11-29"
+                ]
+            },
+            "dnr-202l_firmware": {
+                "counts": 1,
+                "published_dates": [
+                    "2024-04-04"
+                ],
+                "last_modified_dates": [
+                    "2024-11-29"
+                ]
+            },
+            "dns-320_firmware": {
                 "counts": 1,
                 "published_dates": [
                     "2024-04-04"
@@ -203,7 +158,52 @@
                     "2024-11-29"
                 ]
             },
-            "dns-343_firmware": {
+            "dns-1100-4_firmware": {
+                "counts": 1,
+                "published_dates": [
+                    "2024-04-04"
+                ],
+                "last_modified_dates": [
+                    "2024-11-29"
+                ]
+            },
+            "dns-323_firmware": {
+                "counts": 1,
+                "published_dates": [
+                    "2024-04-04"
+                ],
+                "last_modified_dates": [
+                    "2024-11-29"
+                ]
+            },
+            "dns-320lw_firmware": {
+                "counts": 1,
+                "published_dates": [
+                    "2024-04-04"
+                ],
+                "last_modified_dates": [
+                    "2024-11-29"
+                ]
+            },
+            "dns-1550-04_firmware": {
+                "counts": 1,
+                "published_dates": [
+                    "2024-04-04"
+                ],
+                "last_modified_dates": [
+                    "2024-11-29"
+                ]
+            },
+            "dns-321_firmware": {
+                "counts": 1,
+                "published_dates": [
+                    "2024-04-04"
+                ],
+                "last_modified_dates": [
+                    "2024-11-29"
+                ]
+            },
+            "dns-325_firmware": {
                 "counts": 1,
                 "published_dates": [
                     "2024-04-04"
