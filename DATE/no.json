@@ -1,25 +1,4 @@
 {
-    "fedoraproject": {
-        "total_counts": 31,
-        "subproducts": {
-            "fedora": {
-                "counts": 31,
-                "published_dates": [
-                    "2022-09-26",
-                    "2023-12-18",
-                    "2024-01-24",
-                    "2024-02-07",
-                    "2024-03-13"
-                ],
-                "last_modified_dates": [
-                    "2025-05-14",
-                    "2025-05-15",
-                    "2025-05-19",
-                    "2025-05-21"
-                ]
-            }
-        }
-    },
     "google": {
         "total_counts": 33,
         "subproducts": {
@@ -57,10 +36,31 @@
             }
         }
     },
+    "fedoraproject": {
+        "total_counts": 31,
+        "subproducts": {
+            "fedora": {
+                "counts": 31,
+                "published_dates": [
+                    "2022-09-26",
+                    "2023-12-18",
+                    "2024-01-24",
+                    "2024-02-07",
+                    "2024-03-13"
+                ],
+                "last_modified_dates": [
+                    "2025-05-14",
+                    "2025-05-15",
+                    "2025-05-19",
+                    "2025-05-21"
+                ]
+            }
+        }
+    },
     "conda-forge": {
         "total_counts": 2,
         "subproducts": {
-            "miniforge": {
+            "openssl-feedstock": {
                 "counts": 1,
                 "published_dates": [
                     "2025-05-13"
@@ -69,7 +69,7 @@
                     "2025-05-13"
                 ]
             },
-            "openssl-feedstock": {
+            "miniforge": {
                 "counts": 1,
                 "published_dates": [
                     "2025-05-13"
@@ -95,72 +95,10 @@
         }
     },
     "microsoft": {
-        "total_counts": 647,
+        "total_counts": 157,
         "subproducts": {
-            "windows_10": {
-                "counts": 36,
-                "published_dates": [
-                    "2019-06-12"
-                ],
-                "last_modified_dates": [
-                    "2025-05-20"
-                ]
-            },
-            "windows_server_2016": {
-                "counts": 60,
-                "published_dates": [
-                    "2019-06-12",
-                    "2024-12-12",
-                    "2025-05-13"
-                ],
-                "last_modified_dates": [
-                    "2025-05-13",
-                    "2025-05-19",
-                    "2025-05-20"
-                ]
-            },
-            "windows_7": {
-                "counts": 35,
-                "published_dates": [
-                    "2019-06-12"
-                ],
-                "last_modified_dates": [
-                    "2025-05-20"
-                ]
-            },
-            "windows_rt_8.1": {
-                "counts": 26,
-                "published_dates": [
-                    "2019-06-12"
-                ],
-                "last_modified_dates": [
-                    "2025-05-20"
-                ]
-            },
-            "windows_server_2012": {
-                "counts": 51,
-                "published_dates": [
-                    "2019-06-12",
-                    "2024-12-12",
-                    "2025-05-13"
-                ],
-                "last_modified_dates": [
-                    "2025-05-13",
-                    "2025-05-19",
-                    "2025-05-20"
-                ]
-            },
-            "windows_8.1": {
-                "counts": 26,
-                "published_dates": [
-                    "2019-06-12"
-                ],
-                "last_modified_dates": [
-                    "2025-05-20"
-                ]
-            },
-            "windows_server_2008": {
-                "counts": 56,
+            "windows_client": {
+                "counts": 77,
                 "published_dates": [
                     "2019-06-12",
                     "2025-05-13"
@@ -170,8 +108,8 @@
                     "2025-05-20"
                 ]
             },
-            "windows_server_2019": {
-                "counts": 62,
+            "windows_server": {
+                "counts": 77,
                 "published_dates": [
                     "2019-06-12",
                     "2024-12-12",
@@ -181,129 +119,6 @@
                     "2025-05-13",
                     "2025-05-19",
                     "2025-05-20"
-                ]
-            },
-            "windows_server_2022_23h2": {
-                "counts": 28,
-                "published_dates": [
-                    "2024-12-12",
-                    "2025-05-13"
-                ],
-                "last_modified_dates": [
-                    "2025-05-13",
-                    "2025-05-19"
-                ]
-            },
-            "windows_server_2022": {
-                "counts": 27,
-                "published_dates": [
-                    "2024-12-12",
-                    "2025-05-13"
-                ],
-                "last_modified_dates": [
-                    "2025-05-13",
-                    "2025-05-19"
-                ]
-            },
-            "windows_server_2025": {
-                "counts": 27,
-                "published_dates": [
-                    "2024-12-12",
-                    "2025-05-13"
-                ],
-                "last_modified_dates": [
-                    "2025-05-13",
-                    "2025-05-19"
-                ]
-            },
-            "windows_10_22h2": {
-                "counts": 26,
-                "published_dates": [
-                    "2025-05-13"
-                ],
-                "last_modified_dates": [
-                    "2025-05-19"
-                ]
-            },
-            "windows_10_1607": {
-                "counts": 25,
-                "published_dates": [
-                    "2025-05-13"
-                ],
-                "last_modified_dates": [
-                    "2025-05-19"
-                ]
-            },
-            "windows_11_22h2": {
-                "counts": 26,
-                "published_dates": [
-                    "2025-05-13"
-                ],
-                "last_modified_dates": [
-                    "2025-05-19"
-                ]
-            },
-            "windows_11_24h2": {
-                "counts": 27,
-                "published_dates": [
-                    "2025-05-13"
-                ],
-                "last_modified_dates": [
-                    "2025-05-19"
-                ]
-            },
-            "windows_10_1809": {
-                "counts": 27,
-                "published_dates": [
-                    "2025-05-13"
-                ],
-                "last_modified_dates": [
-                    "2025-05-19"
-                ]
-            },
-            "windows_10_1507": {
-                "counts": 24,
-                "published_dates": [
-                    "2025-05-13"
-                ],
-                "last_modified_dates": [
-                    "2025-05-19"
-                ]
-            },
-            "windows_10_21h2": {
-                "counts": 26,
-                "published_dates": [
-                    "2025-05-13"
-                ],
-                "last_modified_dates": [
-                    "2025-05-19"
-                ]
-            },
-            "windows_11_23h2": {
-                "counts": 26,
-                "published_dates": [
-                    "2025-05-13"
-                ],
-                "last_modified_dates": [
-                    "2025-05-19"
-                ]
-            },
-            "windows_hardware_lab_kit": {
-                "counts": 1,
-                "published_dates": [
-                    "2025-05-13"
-                ],
-                "last_modified_dates": [
-                    "2025-05-19"
-                ]
-            },
-            "windows_app": {
-                "counts": 1,
-                "published_dates": [
-                    "2025-05-13"
-                ],
-                "last_modified_dates": [
-                    "2025-05-19"
                 ]
             },
             "remote_desktop": {
@@ -316,15 +131,6 @@
                 ]
             },
             "office": {
-                "counts": 1,
-                "published_dates": [
-                    "2025-05-13"
-                ],
-                "last_modified_dates": [
-                    "2025-05-19"
-                ]
-            },
-            "office_long_term_servicing_channel": {
                 "counts": 1,
                 "published_dates": [
                     "2025-05-13"
@@ -412,15 +218,6 @@
     "asus": {
         "total_counts": 5,
         "subproducts": {
-            "asusswitch": {
-                "counts": 1,
-                "published_dates": [
-                    "2022-10-18"
-                ],
-                "last_modified_dates": [
-                    "2025-05-13"
-                ]
-            },
             "system_control_interface": {
                 "counts": 2,
                 "published_dates": [
@@ -430,7 +227,7 @@
                     "2025-05-13"
                 ]
             },
-            "asussoftwaremanger": {
+            "asusswitch": {
                 "counts": 1,
                 "published_dates": [
                     "2022-10-18"
@@ -440,6 +237,15 @@
                 ]
             },
             "asusliveupdate": {
+                "counts": 1,
+                "published_dates": [
+                    "2022-10-18"
+                ],
+                "last_modified_dates": [
+                    "2025-05-13"
+                ]
+            },
+            "asussoftwaremanger": {
                 "counts": 1,
                 "published_dates": [
                     "2022-10-18"
@@ -494,24 +300,6 @@
                     "2025-05-12"
                 ]
             },
-            "jira service management server": {
-                "counts": 1,
-                "published_dates": [
-                    "2025-05-20"
-                ],
-                "last_modified_dates": [
-                    "2025-05-21"
-                ]
-            },
-            "jira core server": {
-                "counts": 1,
-                "published_dates": [
-                    "2025-05-20"
-                ],
-                "last_modified_dates": [
-                    "2025-05-21"
-                ]
-            },
             "jira service management data center": {
                 "counts": 1,
                 "published_dates": [
@@ -530,7 +318,44 @@
                     "2025-05-21"
                 ]
             },
+            "jira core server": {
+                "counts": 1,
+                "published_dates": [
+                    "2025-05-20"
+                ],
+                "last_modified_dates": [
+                    "2025-05-21"
+                ]
+            },
+            "jira service management server": {
+                "counts": 1,
+                "published_dates": [
+                    "2025-05-20"
+                ],
+                "last_modified_dates": [
+                    "2025-05-21"
+                ]
+            },
+            "confluence_server": {
+                "counts": 2,
+                "published_dates": [
+                    "2024-01-16",
+                    "2024-05-21"
+                ],
+                "last_modified_dates": [
+                    "2025-05-12"
+                ]
+            },
             "jira_service_management": {
+                "counts": 1,
+                "published_dates": [
+                    "2024-05-21"
+                ],
+                "last_modified_dates": [
+                    "2025-05-12"
+                ]
+            },
+            "crucible": {
                 "counts": 1,
                 "published_dates": [
                     "2024-05-21"
@@ -548,25 +373,6 @@
                     "2025-05-12"
                 ]
             },
-            "jira_data_center": {
-                "counts": 1,
-                "published_dates": [
-                    "2024-05-21"
-                ],
-                "last_modified_dates": [
-                    "2025-05-12"
-                ]
-            },
-            "confluence_server": {
-                "counts": 2,
-                "published_dates": [
-                    "2024-01-16",
-                    "2024-05-21"
-                ],
-                "last_modified_dates": [
-                    "2025-05-12"
-                ]
-            },
             "confluence_data_center": {
                 "counts": 2,
                 "published_dates": [
@@ -577,7 +383,7 @@
                     "2025-05-12"
                 ]
             },
-            "crucible": {
+            "jira_data_center": {
                 "counts": 1,
                 "published_dates": [
                     "2024-05-21"
@@ -628,7 +434,7 @@
     "papercut": {
         "total_counts": 2,
         "subproducts": {
-            "papercut_mf": {
+            "papercut_ng": {
                 "counts": 1,
                 "published_dates": [
                     "2024-09-26"
@@ -637,7 +443,7 @@
                     "2025-05-13"
                 ]
             },
-            "papercut_ng": {
+            "papercut_mf": {
                 "counts": 1,
                 "published_dates": [
                     "2024-09-26"
@@ -777,15 +583,6 @@
                     "2025-05-21"
                 ]
             },
-            "vmware telco cloud infrastructure": {
-                "counts": 3,
-                "published_dates": [
-                    "2025-05-20"
-                ],
-                "last_modified_dates": [
-                    "2025-05-21"
-                ]
-            },
             "vmware esxi": {
                 "counts": 3,
                 "published_dates": [
@@ -795,8 +592,8 @@
                     "2025-05-21"
                 ]
             },
-            "vmware fusion": {
-                "counts": 1,
+            "vmware telco cloud infrastructure": {
+                "counts": 3,
                 "published_dates": [
                     "2025-05-20"
                 ],
@@ -805,6 +602,15 @@
                 ]
             },
             "vmware workstation": {
+                "counts": 1,
+                "published_dates": [
+                    "2025-05-20"
+                ],
+                "last_modified_dates": [
+                    "2025-05-21"
+                ]
+            },
+            "vmware fusion": {
                 "counts": 1,
                 "published_dates": [
                     "2025-05-20"
@@ -921,20 +727,6 @@
             }
         }
     },
-    "norton": {
-        "total_counts": 1,
-        "subproducts": {
-            "norton utilities ultimate": {
-                "counts": 1,
-                "published_dates": [
-                    "2025-05-09"
-                ],
-                "last_modified_dates": [
-                    "2025-05-12"
-                ]
-            }
-        }
-    },
     "avast": {
         "total_counts": 3,
         "subproducts": {
@@ -949,6 +741,20 @@
             },
             "cleanup premium": {
                 "counts": 2,
+                "published_dates": [
+                    "2025-05-09"
+                ],
+                "last_modified_dates": [
+                    "2025-05-12"
+                ]
+            }
+        }
+    },
+    "norton": {
+        "total_counts": 1,
+        "subproducts": {
+            "norton utilities ultimate": {
+                "counts": 1,
                 "published_dates": [
                     "2025-05-09"
                 ],
@@ -1303,84 +1109,10 @@
     "oracle": {
         "total_counts": 85,
         "subproducts": {
-            "communications_diameter_signaling_router": {
-                "counts": 2,
-                "published_dates": [
-                    "2018-07-09",
-                    "2019-10-08"
-                ],
-                "last_modified_dates": [
-                    "2025-05-12"
-                ]
-            },
             "peoplesoft_enterprise_hcm_global_payroll_switzerland": {
                 "counts": 1,
                 "published_dates": [
                     "2019-10-08"
-                ],
-                "last_modified_dates": [
-                    "2025-05-12"
-                ]
-            },
-            "communications_convergence": {
-                "counts": 3,
-                "published_dates": [
-                    "2018-07-09",
-                    "2019-10-08",
-                    "2020-12-18"
-                ],
-                "last_modified_dates": [
-                    "2025-05-12"
-                ]
-            },
-            "communications_session_route_manager": {
-                "counts": 2,
-                "published_dates": [
-                    "2019-10-08",
-                    "2020-12-18"
-                ],
-                "last_modified_dates": [
-                    "2025-05-12"
-                ]
-            },
-            "data_integrator": {
-                "counts": 2,
-                "published_dates": [
-                    "2018-07-09",
-                    "2019-10-08"
-                ],
-                "last_modified_dates": [
-                    "2025-05-12"
-                ]
-            },
-            "managed_file_transfer": {
-                "counts": 2,
-                "published_dates": [
-                    "2018-07-09",
-                    "2019-10-08"
-                ],
-                "last_modified_dates": [
-                    "2025-05-12"
-                ]
-            },
-            "weblogic_server": {
-                "counts": 3,
-                "published_dates": [
-                    "2018-07-09",
-                    "2019-10-08",
-                    "2024-04-16"
-                ],
-                "last_modified_dates": [
-                    "2025-05-12",
-                    "2025-05-21"
-                ]
-            },
-            "webcenter_portal": {
-                "counts": 3,
-                "published_dates": [
-                    "2018-07-09",
-                    "2019-10-08",
-                    "2020-12-18"
                 ],
                 "last_modified_dates": [
                     "2025-05-12"
@@ -1397,44 +1129,7 @@
                     "2025-05-12"
                 ]
             },
-            "hospitality_guest_access": {
-                "counts": 1,
-                "published_dates": [
-                    "2019-10-08"
-                ],
-                "last_modified_dates": [
-                    "2025-05-12"
-                ]
-            },
-            "business_process_management_suite": {
-                "counts": 2,
-                "published_dates": [
-                    "2018-07-09",
-                    "2019-10-08"
-                ],
-                "last_modified_dates": [
-                    "2025-05-12"
-                ]
-            },
-            "financial_services_analytical_applications_infrastructure": {
-                "counts": 1,
-                "published_dates": [
-                    "2019-10-08"
-                ],
-                "last_modified_dates": [
-                    "2025-05-12"
-                ]
-            },
-            "flexcube_private_banking": {
-                "counts": 1,
-                "published_dates": [
-                    "2019-10-08"
-                ],
-                "last_modified_dates": [
-                    "2025-05-12"
-                ]
-            },
-            "retail_xstore_point_of_service": {
+            "communications_diameter_signaling_router": {
                 "counts": 2,
                 "published_dates": [
                     "2018-07-09",
@@ -1454,6 +1149,117 @@
                     "2025-05-12"
                 ]
             },
+            "business_process_management_suite": {
+                "counts": 2,
+                "published_dates": [
+                    "2018-07-09",
+                    "2019-10-08"
+                ],
+                "last_modified_dates": [
+                    "2025-05-12"
+                ]
+            },
+            "data_integrator": {
+                "counts": 2,
+                "published_dates": [
+                    "2018-07-09",
+                    "2019-10-08"
+                ],
+                "last_modified_dates": [
+                    "2025-05-12"
+                ]
+            },
+            "retail_xstore_point_of_service": {
+                "counts": 2,
+                "published_dates": [
+                    "2018-07-09",
+                    "2019-10-08"
+                ],
+                "last_modified_dates": [
+                    "2025-05-12"
+                ]
+            },
+            "communications_session_route_manager": {
+                "counts": 2,
+                "published_dates": [
+                    "2019-10-08",
+                    "2020-12-18"
+                ],
+                "last_modified_dates": [
+                    "2025-05-12"
+                ]
+            },
+            "flexcube_private_banking": {
+                "counts": 1,
+                "published_dates": [
+                    "2019-10-08"
+                ],
+                "last_modified_dates": [
+                    "2025-05-12"
+                ]
+            },
+            "managed_file_transfer": {
+                "counts": 2,
+                "published_dates": [
+                    "2018-07-09",
+                    "2019-10-08"
+                ],
+                "last_modified_dates": [
+                    "2025-05-12"
+                ]
+            },
+            "financial_services_analytical_applications_infrastructure": {
+                "counts": 1,
+                "published_dates": [
+                    "2019-10-08"
+                ],
+                "last_modified_dates": [
+                    "2025-05-12"
+                ]
+            },
+            "communications_convergence": {
+                "counts": 3,
+                "published_dates": [
+                    "2018-07-09",
+                    "2019-10-08",
+                    "2020-12-18"
+                ],
+                "last_modified_dates": [
+                    "2025-05-12"
+                ]
+            },
+            "webcenter_portal": {
+                "counts": 3,
+                "published_dates": [
+                    "2018-07-09",
+                    "2019-10-08",
+                    "2020-12-18"
+                ],
+                "last_modified_dates": [
+                    "2025-05-12"
+                ]
+            },
+            "weblogic_server": {
+                "counts": 3,
+                "published_dates": [
+                    "2018-07-09",
+                    "2019-10-08",
+                    "2024-04-16"
+                ],
+                "last_modified_dates": [
+                    "2025-05-12",
+                    "2025-05-21"
+                ]
+            },
+            "hospitality_guest_access": {
+                "counts": 1,
+                "published_dates": [
+                    "2019-10-08"
+                ],
+                "last_modified_dates": [
+                    "2025-05-12"
+                ]
+            },
             "communications_pricing_design_center": {
                 "counts": 1,
                 "published_dates": [
@@ -1463,7 +1269,7 @@
                     "2025-05-12"
                 ]
             },
-            "blockchain_platform": {
+            "commerce_guided_search": {
                 "counts": 1,
                 "published_dates": [
                     "2020-12-18"
@@ -1472,16 +1278,7 @@
                     "2025-05-12"
                 ]
             },
-            "communications_messaging_server": {
-                "counts": 1,
-                "published_dates": [
-                    "2020-12-18"
-                ],
-                "last_modified_dates": [
-                    "2025-05-12"
-                ]
-            },
-            "utilities_framework": {
+            "communications_cloud_native_core_network_slice_selection_function": {
                 "counts": 1,
                 "published_dates": [
                     "2020-12-18"
@@ -1500,7 +1297,7 @@
                     "2025-05-12"
                 ]
             },
-            "commerce_guided_search": {
+            "banking_extensibility_workbench": {
                 "counts": 1,
                 "published_dates": [
                     "2020-12-18"
@@ -1518,7 +1315,7 @@
                     "2025-05-12"
                 ]
             },
-            "banking_virtual_account_management": {
+            "jd_edwards_enterpriseone_tools": {
                 "counts": 1,
                 "published_dates": [
                     "2020-12-18"
@@ -1527,7 +1324,7 @@
                     "2025-05-12"
                 ]
             },
-            "banking_extensibility_workbench": {
+            "utilities_framework": {
                 "counts": 1,
                 "published_dates": [
                     "2020-12-18"
@@ -1545,7 +1342,25 @@
                     "2025-05-12"
                 ]
             },
-            "communications_cloud_native_core_network_slice_selection_function": {
+            "banking_virtual_account_management": {
+                "counts": 1,
+                "published_dates": [
+                    "2020-12-18"
+                ],
+                "last_modified_dates": [
+                    "2025-05-12"
+                ]
+            },
+            "communications_messaging_server": {
+                "counts": 1,
+                "published_dates": [
+                    "2020-12-18"
+                ],
+                "last_modified_dates": [
+                    "2025-05-12"
+                ]
+            },
+            "blockchain_platform": {
                 "counts": 1,
                 "published_dates": [
                     "2020-12-18"
@@ -1572,42 +1387,6 @@
                     "2025-05-12"
                 ]
             },
-            "jd_edwards_enterpriseone_tools": {
-                "counts": 1,
-                "published_dates": [
-                    "2020-12-18"
-                ],
-                "last_modified_dates": [
-                    "2025-05-12"
-                ]
-            },
-            "business_transaction_management": {
-                "counts": 1,
-                "published_dates": [
-                    "2018-07-09"
-                ],
-                "last_modified_dates": [
-                    "2025-05-12"
-                ]
-            },
-            "utilities_network_management_system": {
-                "counts": 1,
-                "published_dates": [
-                    "2018-07-09"
-                ],
-                "last_modified_dates": [
-                    "2025-05-12"
-                ]
-            },
-            "communications_converged_application_server": {
-                "counts": 1,
-                "published_dates": [
-                    "2018-07-09"
-                ],
-                "last_modified_dates": [
-                    "2025-05-12"
-                ]
-            },
             "communications_webrtc_session_controller": {
                 "counts": 1,
                 "published_dates": [
@@ -1617,7 +1396,7 @@
                     "2025-05-12"
                 ]
             },
-            "enterprise_repository": {
+            "enterprise_manager_for_fusion_middleware": {
                 "counts": 1,
                 "published_dates": [
                     "2018-07-09"
@@ -1637,7 +1416,7 @@
                     "2025-05-21"
                 ]
             },
-            "retail_convenience_and_fuel_pos_software": {
+            "communications_converged_application_server": {
                 "counts": 1,
                 "published_dates": [
                     "2018-07-09"
@@ -1655,6 +1434,15 @@
                     "2025-05-12"
                 ]
             },
+            "utilities_network_management_system": {
+                "counts": 1,
+                "published_dates": [
+                    "2018-07-09"
+                ],
+                "last_modified_dates": [
+                    "2025-05-12"
+                ]
+            },
             "api_gateway": {
                 "counts": 1,
                 "published_dates": [
@@ -1664,7 +1452,7 @@
                     "2025-05-12"
                 ]
             },
-            "enterprise_manager_for_fusion_middleware": {
+            "business_transaction_management": {
                 "counts": 1,
                 "published_dates": [
                     "2018-07-09"
@@ -1673,8 +1461,26 @@
                     "2025-05-12"
                 ]
             },
-            "graalvm_for_jdk": {
-                "counts": 4,
+            "enterprise_repository": {
+                "counts": 1,
+                "published_dates": [
+                    "2018-07-09"
+                ],
+                "last_modified_dates": [
+                    "2025-05-12"
+                ]
+            },
+            "retail_convenience_and_fuel_pos_software": {
+                "counts": 1,
+                "published_dates": [
+                    "2018-07-09"
+                ],
+                "last_modified_dates": [
+                    "2025-05-12"
+                ]
+            },
+            "jre": {
+                "counts": 5,
                 "published_dates": [
                     "2024-01-16",
                     "2024-04-16"
@@ -1684,8 +1490,8 @@
                     "2025-05-21"
                 ]
             },
-            "graalvm": {
-                "counts": 5,
+            "graalvm_for_jdk": {
+                "counts": 4,
                 "published_dates": [
                     "2024-01-16",
                     "2024-04-16"
@@ -1706,7 +1512,7 @@
                     "2025-05-21"
                 ]
             },
-            "jre": {
+            "graalvm": {
                 "counts": 5,
                 "published_dates": [
                     "2024-01-16",
@@ -1803,6 +1609,15 @@
     "netapp": {
         "total_counts": 31,
         "subproducts": {
+            "oncommand_api_services": {
+                "counts": 1,
+                "published_dates": [
+                    "2019-10-08"
+                ],
+                "last_modified_dates": [
+                    "2025-05-12"
+                ]
+            },
             "active_iq_unified_manager": {
                 "counts": 6,
                 "published_dates": [
@@ -1816,24 +1631,6 @@
                     "2025-05-21"
                 ]
             },
-            "service_level_manager": {
-                "counts": 1,
-                "published_dates": [
-                    "2019-10-08"
-                ],
-                "last_modified_dates": [
-                    "2025-05-12"
-                ]
-            },
-            "oncommand_api_services": {
-                "counts": 1,
-                "published_dates": [
-                    "2019-10-08"
-                ],
-                "last_modified_dates": [
-                    "2025-05-12"
-                ]
-            },
             "oncommand_workflow_automation": {
                 "counts": 6,
                 "published_dates": [
@@ -1844,6 +1641,15 @@
                 "last_modified_dates": [
                     "2025-05-12",
                     "2025-05-21"
+                ]
+            },
+            "service_level_manager": {
+                "counts": 1,
+                "published_dates": [
+                    "2019-10-08"
+                ],
+                "last_modified_dates": [
+                    "2025-05-12"
                 ]
             },
             "cloud_insights_acquisition_unit": {
@@ -2253,64 +2059,24 @@
             }
         }
     },
+    "net-ssh": {
+        "total_counts": 1,
+        "subproducts": {
+            "net-ssh": {
+                "counts": 1,
+                "published_dates": [
+                    "2023-12-18"
+                ],
+                "last_modified_dates": [
+                    "2025-05-14"
+                ]
+            }
+        }
+    },
     "redhat": {
         "total_counts": 22,
         "subproducts": {
-            "openstack_platform": {
-                "counts": 1,
-                "published_dates": [
-                    "2023-12-18"
-                ],
-                "last_modified_dates": [
-                    "2025-05-14"
-                ]
-            },
-            "openshift_serverless": {
-                "counts": 1,
-                "published_dates": [
-                    "2023-12-18"
-                ],
-                "last_modified_dates": [
-                    "2025-05-14"
-                ]
-            },
-            "advanced_cluster_security": {
-                "counts": 1,
-                "published_dates": [
-                    "2023-12-18"
-                ],
-                "last_modified_dates": [
-                    "2025-05-14"
-                ]
-            },
-            "openshift_developer_tools_and_services": {
-                "counts": 1,
-                "published_dates": [
-                    "2023-12-18"
-                ],
-                "last_modified_dates": [
-                    "2025-05-14"
-                ]
-            },
-            "openshift_virtualization": {
-                "counts": 1,
-                "published_dates": [
-                    "2023-12-18"
-                ],
-                "last_modified_dates": [
-                    "2025-05-14"
-                ]
-            },
-            "discovery": {
-                "counts": 1,
-                "published_dates": [
-                    "2023-12-18"
-                ],
-                "last_modified_dates": [
-                    "2025-05-14"
-                ]
-            },
-            "cert-manager_operator_for_red_hat_openshift": {
+            "keycloak": {
                 "counts": 1,
                 "published_dates": [
                     "2023-12-18"
@@ -2332,7 +2098,7 @@
                     "2025-05-14"
                 ]
             },
-            "openshift_gitops": {
+            "openshift_virtualization": {
                 "counts": 1,
                 "published_dates": [
                     "2023-12-18"
@@ -2341,7 +2107,7 @@
                     "2025-05-14"
                 ]
             },
-            "single_sign-on": {
+            "advanced_cluster_security": {
                 "counts": 1,
                 "published_dates": [
                     "2023-12-18"
@@ -2350,7 +2116,7 @@
                     "2025-05-14"
                 ]
             },
-            "openshift_data_foundation": {
+            "ceph_storage": {
                 "counts": 1,
                 "published_dates": [
                     "2023-12-18"
@@ -2359,16 +2125,7 @@
                     "2025-05-14"
                 ]
             },
-            "keycloak": {
-                "counts": 1,
-                "published_dates": [
-                    "2023-12-18"
-                ],
-                "last_modified_dates": [
-                    "2025-05-14"
-                ]
-            },
-            "storage": {
+            "openshift_pipelines": {
                 "counts": 1,
                 "published_dates": [
                     "2023-12-18"
@@ -2386,16 +2143,7 @@
                     "2025-05-14"
                 ]
             },
-            "jboss_enterprise_application_platform": {
-                "counts": 1,
-                "published_dates": [
-                    "2023-12-18"
-                ],
-                "last_modified_dates": [
-                    "2025-05-14"
-                ]
-            },
-            "ceph_storage": {
+            "openshift_serverless": {
                 "counts": 1,
                 "published_dates": [
                     "2023-12-18"
@@ -2415,7 +2163,16 @@
                     "2025-05-14"
                 ]
             },
-            "openshift_pipelines": {
+            "storage": {
+                "counts": 1,
+                "published_dates": [
+                    "2023-12-18"
+                ],
+                "last_modified_dates": [
+                    "2025-05-14"
+                ]
+            },
+            "openshift_developer_tools_and_services": {
                 "counts": 1,
                 "published_dates": [
                     "2023-12-18"
@@ -2432,13 +2189,8 @@
                 "last_modified_dates": [
                     "2025-05-14"
                 ]
-            }
-        }
-    },
-    "panic": {
-        "total_counts": 2,
-        "subproducts": {
-            "transmit_5": {
+            },
+            "discovery": {
                 "counts": 1,
                 "published_dates": [
                     "2023-12-18"
@@ -2447,6 +2199,65 @@
                     "2025-05-14"
                 ]
             },
+            "single_sign-on": {
+                "counts": 1,
+                "published_dates": [
+                    "2023-12-18"
+                ],
+                "last_modified_dates": [
+                    "2025-05-14"
+                ]
+            },
+            "openstack_platform": {
+                "counts": 1,
+                "published_dates": [
+                    "2023-12-18"
+                ],
+                "last_modified_dates": [
+                    "2025-05-14"
+                ]
+            },
+            "openshift_data_foundation": {
+                "counts": 1,
+                "published_dates": [
+                    "2023-12-18"
+                ],
+                "last_modified_dates": [
+                    "2025-05-14"
+                ]
+            },
+            "cert-manager_operator_for_red_hat_openshift": {
+                "counts": 1,
+                "published_dates": [
+                    "2023-12-18"
+                ],
+                "last_modified_dates": [
+                    "2025-05-14"
+                ]
+            },
+            "jboss_enterprise_application_platform": {
+                "counts": 1,
+                "published_dates": [
+                    "2023-12-18"
+                ],
+                "last_modified_dates": [
+                    "2025-05-14"
+                ]
+            },
+            "openshift_gitops": {
+                "counts": 1,
+                "published_dates": [
+                    "2023-12-18"
+                ],
+                "last_modified_dates": [
+                    "2025-05-14"
+                ]
+            }
+        }
+    },
+    "panic": {
+        "total_counts": 2,
+        "subproducts": {
             "nova": {
                 "counts": 1,
                 "published_dates": [
@@ -2455,64 +2266,8 @@
                 "last_modified_dates": [
                     "2025-05-14"
                 ]
-            }
-        }
-    },
-    "net-ssh": {
-        "total_counts": 1,
-        "subproducts": {
-            "net-ssh": {
-                "counts": 1,
-                "published_dates": [
-                    "2023-12-18"
-                ],
-                "last_modified_dates": [
-                    "2025-05-14"
-                ]
-            }
-        }
-    },
-    "crushftp": {
-        "total_counts": 1,
-        "subproducts": {
-            "crushftp": {
-                "counts": 1,
-                "published_dates": [
-                    "2023-12-18"
-                ],
-                "last_modified_dates": [
-                    "2025-05-14"
-                ]
-            }
-        }
-    },
-    "russh_project": {
-        "total_counts": 1,
-        "subproducts": {
-            "russh": {
-                "counts": 1,
-                "published_dates": [
-                    "2023-12-18"
-                ],
-                "last_modified_dates": [
-                    "2025-05-14"
-                ]
-            }
-        }
-    },
-    "bitvise": {
-        "total_counts": 2,
-        "subproducts": {
-            "ssh_client": {
-                "counts": 1,
-                "published_dates": [
-                    "2023-12-18"
-                ],
-                "last_modified_dates": [
-                    "2025-05-14"
-                ]
             },
-            "ssh_server": {
+            "transmit_5": {
                 "counts": 1,
                 "published_dates": [
                     "2023-12-18"
@@ -2523,52 +2278,10 @@
             }
         }
     },
-    "vandyke": {
+    "proftpd": {
         "total_counts": 1,
         "subproducts": {
-            "securecrt": {
-                "counts": 1,
-                "published_dates": [
-                    "2023-12-18"
-                ],
-                "last_modified_dates": [
-                    "2025-05-14"
-                ]
-            }
-        }
-    },
-    "freebsd": {
-        "total_counts": 1,
-        "subproducts": {
-            "freebsd": {
-                "counts": 1,
-                "published_dates": [
-                    "2023-12-18"
-                ],
-                "last_modified_dates": [
-                    "2025-05-14"
-                ]
-            }
-        }
-    },
-    "thorntech": {
-        "total_counts": 1,
-        "subproducts": {
-            "sftp_gateway_firmware": {
-                "counts": 1,
-                "published_dates": [
-                    "2023-12-18"
-                ],
-                "last_modified_dates": [
-                    "2025-05-14"
-                ]
-            }
-        }
-    },
-    "gentoo": {
-        "total_counts": 1,
-        "subproducts": {
-            "security": {
+            "proftpd": {
                 "counts": 1,
                 "published_dates": [
                     "2023-12-18"
@@ -2582,15 +2295,6 @@
     "lancom-systems": {
         "total_counts": 5,
         "subproducts": {
-            "lcos_lx": {
-                "counts": 1,
-                "published_dates": [
-                    "2023-12-18"
-                ],
-                "last_modified_dates": [
-                    "2025-05-14"
-                ]
-            },
             "lcos_fx": {
                 "counts": 1,
                 "published_dates": [
@@ -2600,7 +2304,7 @@
                     "2025-05-14"
                 ]
             },
-            "lcos_sx": {
+            "lcos": {
                 "counts": 1,
                 "published_dates": [
                     "2023-12-18"
@@ -2609,7 +2313,16 @@
                     "2025-05-14"
                 ]
             },
-            "lcos": {
+            "lcos_lx": {
+                "counts": 1,
+                "published_dates": [
+                    "2023-12-18"
+                ],
+                "last_modified_dates": [
+                    "2025-05-14"
+                ]
+            },
+            "lcos_sx": {
                 "counts": 1,
                 "published_dates": [
                     "2023-12-18"
@@ -2629,201 +2342,10 @@
             }
         }
     },
-    "golang": {
+    "freebsd": {
         "total_counts": 1,
         "subproducts": {
-            "crypto": {
-                "counts": 1,
-                "published_dates": [
-                    "2023-12-18"
-                ],
-                "last_modified_dates": [
-                    "2025-05-14"
-                ]
-            }
-        }
-    },
-    "paramiko": {
-        "total_counts": 1,
-        "subproducts": {
-            "paramiko": {
-                "counts": 1,
-                "published_dates": [
-                    "2023-12-18"
-                ],
-                "last_modified_dates": [
-                    "2025-05-14"
-                ]
-            }
-        }
-    },
-    "ssh": {
-        "total_counts": 1,
-        "subproducts": {
-            "ssh": {
-                "counts": 1,
-                "published_dates": [
-                    "2023-12-18"
-                ],
-                "last_modified_dates": [
-                    "2025-05-14"
-                ]
-            }
-        }
-    },
-    "trilead": {
-        "total_counts": 1,
-        "subproducts": {
-            "ssh2": {
-                "counts": 1,
-                "published_dates": [
-                    "2023-12-18"
-                ],
-                "last_modified_dates": [
-                    "2025-05-14"
-                ]
-            }
-        }
-    },
-    "dropbear_ssh_project": {
-        "total_counts": 1,
-        "subproducts": {
-            "dropbear_ssh": {
-                "counts": 1,
-                "published_dates": [
-                    "2023-12-18"
-                ],
-                "last_modified_dates": [
-                    "2025-05-14"
-                ]
-            }
-        }
-    },
-    "winscp": {
-        "total_counts": 1,
-        "subproducts": {
-            "winscp": {
-                "counts": 1,
-                "published_dates": [
-                    "2023-12-18"
-                ],
-                "last_modified_dates": [
-                    "2025-05-14"
-                ]
-            }
-        }
-    },
-    "tera_term_project": {
-        "total_counts": 1,
-        "subproducts": {
-            "tera_term": {
-                "counts": 1,
-                "published_dates": [
-                    "2023-12-18"
-                ],
-                "last_modified_dates": [
-                    "2025-05-14"
-                ]
-            }
-        }
-    },
-    "netgate": {
-        "total_counts": 2,
-        "subproducts": {
-            "pfsense_plus": {
-                "counts": 1,
-                "published_dates": [
-                    "2023-12-18"
-                ],
-                "last_modified_dates": [
-                    "2025-05-14"
-                ]
-            },
-            "pfsense_ce": {
-                "counts": 1,
-                "published_dates": [
-                    "2023-12-18"
-                ],
-                "last_modified_dates": [
-                    "2025-05-14"
-                ]
-            }
-        }
-    },
-    "tinyssh": {
-        "total_counts": 1,
-        "subproducts": {
-            "tinyssh": {
-                "counts": 1,
-                "published_dates": [
-                    "2023-12-18"
-                ],
-                "last_modified_dates": [
-                    "2025-05-14"
-                ]
-            }
-        }
-    },
-    "putty": {
-        "total_counts": 1,
-        "subproducts": {
-            "putty": {
-                "counts": 1,
-                "published_dates": [
-                    "2023-12-18"
-                ],
-                "last_modified_dates": [
-                    "2025-05-14"
-                ]
-            }
-        }
-    },
-    "libssh": {
-        "total_counts": 1,
-        "subproducts": {
-            "libssh": {
-                "counts": 1,
-                "published_dates": [
-                    "2023-12-18"
-                ],
-                "last_modified_dates": [
-                    "2025-05-14"
-                ]
-            }
-        }
-    },
-    "filezilla-project": {
-        "total_counts": 1,
-        "subproducts": {
-            "filezilla_client": {
-                "counts": 1,
-                "published_dates": [
-                    "2023-12-18"
-                ],
-                "last_modified_dates": [
-                    "2025-05-14"
-                ]
-            }
-        }
-    },
-    "crates": {
-        "total_counts": 1,
-        "subproducts": {
-            "thrussh": {
-                "counts": 1,
-                "published_dates": [
-                    "2023-12-18"
-                ],
-                "last_modified_dates": [
-                    "2025-05-14"
-                ]
-            }
-        }
-    },
-    "oryx-embedded": {
-        "total_counts": 1,
-        "subproducts": {
-            "cyclone_ssh": {
+            "freebsd": {
                 "counts": 1,
                 "published_dates": [
                     "2023-12-18"
@@ -2850,10 +2372,38 @@
             }
         }
     },
-    "netsarang": {
+    "crushftp": {
         "total_counts": 1,
         "subproducts": {
-            "xshell_7": {
+            "crushftp": {
+                "counts": 1,
+                "published_dates": [
+                    "2023-12-18"
+                ],
+                "last_modified_dates": [
+                    "2025-05-14"
+                ]
+            }
+        }
+    },
+    "winscp": {
+        "total_counts": 1,
+        "subproducts": {
+            "winscp": {
+                "counts": 1,
+                "published_dates": [
+                    "2023-12-18"
+                ],
+                "last_modified_dates": [
+                    "2025-05-14"
+                ]
+            }
+        }
+    },
+    "oryx-embedded": {
+        "total_counts": 1,
+        "subproducts": {
+            "cyclone_ssh": {
                 "counts": 1,
                 "published_dates": [
                     "2023-12-18"
@@ -2878,10 +2428,10 @@
             }
         }
     },
-    "connectbot": {
+    "jadaptive": {
         "total_counts": 1,
         "subproducts": {
-            "sshlib": {
+            "maverick_synergy_java_ssh_api": {
                 "counts": 1,
                 "published_dates": [
                     "2023-12-18"
@@ -2892,38 +2442,10 @@
             }
         }
     },
-    "9bis": {
+    "thorntech": {
         "total_counts": 1,
         "subproducts": {
-            "kitty": {
-                "counts": 1,
-                "published_dates": [
-                    "2023-12-18"
-                ],
-                "last_modified_dates": [
-                    "2025-05-14"
-                ]
-            }
-        }
-    },
-    "ssh2_project": {
-        "total_counts": 1,
-        "subproducts": {
-            "ssh2": {
-                "counts": 1,
-                "published_dates": [
-                    "2023-12-18"
-                ],
-                "last_modified_dates": [
-                    "2025-05-14"
-                ]
-            }
-        }
-    },
-    "proftpd": {
-        "total_counts": 1,
-        "subproducts": {
-            "proftpd": {
+            "sftp_gateway_firmware": {
                 "counts": 1,
                 "published_dates": [
                     "2023-12-18"
@@ -2948,6 +2470,113 @@
             }
         }
     },
+    "putty": {
+        "total_counts": 1,
+        "subproducts": {
+            "putty": {
+                "counts": 1,
+                "published_dates": [
+                    "2023-12-18"
+                ],
+                "last_modified_dates": [
+                    "2025-05-14"
+                ]
+            }
+        }
+    },
+    "bitvise": {
+        "total_counts": 2,
+        "subproducts": {
+            "ssh_server": {
+                "counts": 1,
+                "published_dates": [
+                    "2023-12-18"
+                ],
+                "last_modified_dates": [
+                    "2025-05-14"
+                ]
+            },
+            "ssh_client": {
+                "counts": 1,
+                "published_dates": [
+                    "2023-12-18"
+                ],
+                "last_modified_dates": [
+                    "2025-05-14"
+                ]
+            }
+        }
+    },
+    "connectbot": {
+        "total_counts": 1,
+        "subproducts": {
+            "sshlib": {
+                "counts": 1,
+                "published_dates": [
+                    "2023-12-18"
+                ],
+                "last_modified_dates": [
+                    "2025-05-14"
+                ]
+            }
+        }
+    },
+    "tinyssh": {
+        "total_counts": 1,
+        "subproducts": {
+            "tinyssh": {
+                "counts": 1,
+                "published_dates": [
+                    "2023-12-18"
+                ],
+                "last_modified_dates": [
+                    "2025-05-14"
+                ]
+            }
+        }
+    },
+    "trilead": {
+        "total_counts": 1,
+        "subproducts": {
+            "ssh2": {
+                "counts": 1,
+                "published_dates": [
+                    "2023-12-18"
+                ],
+                "last_modified_dates": [
+                    "2025-05-14"
+                ]
+            }
+        }
+    },
+    "gentoo": {
+        "total_counts": 1,
+        "subproducts": {
+            "security": {
+                "counts": 1,
+                "published_dates": [
+                    "2023-12-18"
+                ],
+                "last_modified_dates": [
+                    "2025-05-14"
+                ]
+            }
+        }
+    },
+    "filezilla-project": {
+        "total_counts": 1,
+        "subproducts": {
+            "filezilla_client": {
+                "counts": 1,
+                "published_dates": [
+                    "2023-12-18"
+                ],
+                "last_modified_dates": [
+                    "2025-05-14"
+                ]
+            }
+        }
+    },
     "erlang": {
         "total_counts": 1,
         "subproducts": {
@@ -2962,10 +2591,10 @@
             }
         }
     },
-    "matez": {
+    "ssh": {
         "total_counts": 1,
         "subproducts": {
-            "jsch": {
+            "ssh": {
                 "counts": 1,
                 "published_dates": [
                     "2023-12-18"
@@ -2976,10 +2605,38 @@
             }
         }
     },
-    "libssh2": {
+    "ssh2_project": {
         "total_counts": 1,
         "subproducts": {
-            "libssh2": {
+            "ssh2": {
+                "counts": 1,
+                "published_dates": [
+                    "2023-12-18"
+                ],
+                "last_modified_dates": [
+                    "2025-05-14"
+                ]
+            }
+        }
+    },
+    "russh_project": {
+        "total_counts": 1,
+        "subproducts": {
+            "russh": {
+                "counts": 1,
+                "published_dates": [
+                    "2023-12-18"
+                ],
+                "last_modified_dates": [
+                    "2025-05-14"
+                ]
+            }
+        }
+    },
+    "paramiko": {
+        "total_counts": 1,
+        "subproducts": {
+            "paramiko": {
                 "counts": 1,
                 "published_dates": [
                     "2023-12-18"
@@ -3004,10 +2661,89 @@
             }
         }
     },
-    "jadaptive": {
+    "matez": {
         "total_counts": 1,
         "subproducts": {
-            "maverick_synergy_java_ssh_api": {
+            "jsch": {
+                "counts": 1,
+                "published_dates": [
+                    "2023-12-18"
+                ],
+                "last_modified_dates": [
+                    "2025-05-14"
+                ]
+            }
+        }
+    },
+    "dropbear_ssh_project": {
+        "total_counts": 1,
+        "subproducts": {
+            "dropbear_ssh": {
+                "counts": 1,
+                "published_dates": [
+                    "2023-12-18"
+                ],
+                "last_modified_dates": [
+                    "2025-05-14"
+                ]
+            }
+        }
+    },
+    "crates": {
+        "total_counts": 1,
+        "subproducts": {
+            "thrussh": {
+                "counts": 1,
+                "published_dates": [
+                    "2023-12-18"
+                ],
+                "last_modified_dates": [
+                    "2025-05-14"
+                ]
+            }
+        }
+    },
+    "netgate": {
+        "total_counts": 2,
+        "subproducts": {
+            "pfsense_ce": {
+                "counts": 1,
+                "published_dates": [
+                    "2023-12-18"
+                ],
+                "last_modified_dates": [
+                    "2025-05-14"
+                ]
+            },
+            "pfsense_plus": {
+                "counts": 1,
+                "published_dates": [
+                    "2023-12-18"
+                ],
+                "last_modified_dates": [
+                    "2025-05-14"
+                ]
+            }
+        }
+    },
+    "golang": {
+        "total_counts": 1,
+        "subproducts": {
+            "crypto": {
+                "counts": 1,
+                "published_dates": [
+                    "2023-12-18"
+                ],
+                "last_modified_dates": [
+                    "2025-05-14"
+                ]
+            }
+        }
+    },
+    "libssh2": {
+        "total_counts": 1,
+        "subproducts": {
+            "libssh2": {
                 "counts": 1,
                 "published_dates": [
                     "2023-12-18"
@@ -3038,6 +2774,20 @@
                     "2025-05-21"
                 ]
             },
+            "iphone_os": {
+                "counts": 5,
+                "published_dates": [
+                    "2024-01-10",
+                    "2024-01-23",
+                    "2025-03-31",
+                    "2025-04-30"
+                ],
+                "last_modified_dates": [
+                    "2025-05-12",
+                    "2025-05-13",
+                    "2025-05-15"
+                ]
+            },
             "ipados": {
                 "counts": 30,
                 "published_dates": [
@@ -3056,22 +2806,8 @@
                     "2025-05-21"
                 ]
             },
-            "iphone_os": {
-                "counts": 5,
-                "published_dates": [
-                    "2024-01-10",
-                    "2024-01-23",
-                    "2025-03-31",
-                    "2025-04-30"
-                ],
-                "last_modified_dates": [
-                    "2025-05-12",
-                    "2025-05-13",
-                    "2025-05-15"
-                ]
-            },
-            "safari": {
-                "counts": 12,
+            "tvos": {
+                "counts": 29,
                 "published_dates": [
                     "2024-01-23",
                     "2025-03-31",
@@ -3099,8 +2835,8 @@
                     "2025-05-21"
                 ]
             },
-            "tvos": {
-                "counts": 29,
+            "safari": {
+                "counts": 12,
                 "published_dates": [
                     "2024-01-23",
                     "2025-03-31",
@@ -3139,6 +2875,76 @@
                     "2025-05-15",
                     "2025-05-20",
                     "2025-05-21"
+                ]
+            }
+        }
+    },
+    "netsarang": {
+        "total_counts": 1,
+        "subproducts": {
+            "xshell_7": {
+                "counts": 1,
+                "published_dates": [
+                    "2023-12-18"
+                ],
+                "last_modified_dates": [
+                    "2025-05-14"
+                ]
+            }
+        }
+    },
+    "tera_term_project": {
+        "total_counts": 1,
+        "subproducts": {
+            "tera_term": {
+                "counts": 1,
+                "published_dates": [
+                    "2023-12-18"
+                ],
+                "last_modified_dates": [
+                    "2025-05-14"
+                ]
+            }
+        }
+    },
+    "libssh": {
+        "total_counts": 1,
+        "subproducts": {
+            "libssh": {
+                "counts": 1,
+                "published_dates": [
+                    "2023-12-18"
+                ],
+                "last_modified_dates": [
+                    "2025-05-14"
+                ]
+            }
+        }
+    },
+    "vandyke": {
+        "total_counts": 1,
+        "subproducts": {
+            "securecrt": {
+                "counts": 1,
+                "published_dates": [
+                    "2023-12-18"
+                ],
+                "last_modified_dates": [
+                    "2025-05-14"
+                ]
+            }
+        }
+    },
+    "9bis": {
+        "total_counts": 1,
+        "subproducts": {
+            "kitty": {
+                "counts": 1,
+                "published_dates": [
+                    "2023-12-18"
+                ],
+                "last_modified_dates": [
+                    "2025-05-14"
                 ]
             }
         }
@@ -5122,7 +4928,7 @@
                     "2025-05-19"
                 ]
             },
-            "wholesale market": {
+            "wholesale market for woocommerce": {
                 "counts": 1,
                 "published_dates": [
                     "2025-05-16"
@@ -5131,7 +4937,7 @@
                     "2025-05-19"
                 ]
             },
-            "wholesale market for woocommerce": {
+            "wholesale market": {
                 "counts": 1,
                 "published_dates": [
                     "2025-05-16"
@@ -5227,7 +5033,7 @@
                     "2025-05-21"
                 ]
             },
-            "commerce": {
+            "magento": {
                 "counts": 2,
                 "published_dates": [
                     "2025-04-08"
@@ -5236,7 +5042,7 @@
                     "2025-05-20"
                 ]
             },
-            "magento": {
+            "commerce": {
                 "counts": 2,
                 "published_dates": [
                     "2025-04-08"
@@ -5438,8 +5244,8 @@
     "vmware": {
         "total_counts": 23,
         "subproducts": {
-            "cloud_foundation": {
-                "counts": 10,
+            "aria_operations": {
+                "counts": 6,
                 "published_dates": [
                     "2024-11-26",
                     "2025-01-30"
@@ -5448,8 +5254,8 @@
                     "2025-05-14"
                 ]
             },
-            "aria_operations": {
-                "counts": 6,
+            "cloud_foundation": {
+                "counts": 10,
                 "published_dates": [
                     "2024-11-26",
                     "2025-01-30"
@@ -5467,6 +5273,15 @@
                     "2025-05-14"
                 ]
             },
+            "vmware cloud foundation": {
+                "counts": 1,
+                "published_dates": [
+                    "2025-05-13"
+                ],
+                "last_modified_dates": [
+                    "2025-05-13"
+                ]
+            },
             "vmware telco cloud platform": {
                 "counts": 1,
                 "published_dates": [
@@ -5477,15 +5292,6 @@
                 ]
             },
             "vmware aria automation": {
-                "counts": 1,
-                "published_dates": [
-                    "2025-05-13"
-                ],
-                "last_modified_dates": [
-                    "2025-05-13"
-                ]
-            },
-            "vmware cloud foundation": {
                 "counts": 1,
                 "published_dates": [
                     "2025-05-13"
@@ -5522,7 +5328,7 @@
                     "2025-05-21"
                 ]
             },
-            "unified_computing_system": {
+            "firepower_extensible_operating_system": {
                 "counts": 1,
                 "published_dates": [
                     "2024-02-29"
@@ -5531,7 +5337,7 @@
                     "2025-05-21"
                 ]
             },
-            "firepower_extensible_operating_system": {
+            "unified_computing_system": {
                 "counts": 1,
                 "published_dates": [
                     "2024-02-29"
@@ -9300,10 +9106,10 @@
             }
         }
     },
-    "relevanssi": {
+    "msaari": {
         "total_counts": 1,
         "subproducts": {
-            "relevanssi \u2013 a better search (pro)": {
+            "relevanssi \u2013 a better search": {
                 "counts": 1,
                 "published_dates": [
                     "2025-05-13"
@@ -9314,10 +9120,10 @@
             }
         }
     },
-    "msaari": {
+    "relevanssi": {
         "total_counts": 1,
         "subproducts": {
-            "relevanssi \u2013 a better search": {
+            "relevanssi \u2013 a better search (pro)": {
                 "counts": 1,
                 "published_dates": [
                     "2025-05-13"
@@ -10016,7 +9822,7 @@
                     "2025-05-16"
                 ]
             },
-            "covr_1200_firmware": {
+            "covr_1202_firmware": {
                 "counts": 4,
                 "published_dates": [
                     "2022-10-13"
@@ -10026,7 +9832,7 @@
                     "2025-05-16"
                 ]
             },
-            "covr_1202_firmware": {
+            "covr_1200_firmware": {
                 "counts": 4,
                 "published_dates": [
                     "2022-10-13"
@@ -10064,7 +9870,7 @@
                     "2025-05-21"
                 ]
             },
-            "dap-1360_firmware": {
+            "dap-2020_firmware": {
                 "counts": 11,
                 "published_dates": [
                     "2024-05-03"
@@ -10073,7 +9879,7 @@
                     "2025-05-16"
                 ]
             },
-            "dap-2020_firmware": {
+            "dap-1360_firmware": {
                 "counts": 11,
                 "published_dates": [
                     "2024-05-03"
