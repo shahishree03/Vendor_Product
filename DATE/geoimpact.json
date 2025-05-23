@@ -1,21 +1,48 @@
 {
-    "debian": {
-        "total_counts": 7,
+    "google": {
+        "total_counts": 3,
         "subproducts": {
-            "debian_linux": {
-                "counts": 7,
+            "chrome": {
+                "counts": 3,
                 "published_dates": [
                     "2019-02-19",
-                    "2021-02-11",
                     "2021-11-23",
-                    "2021-12-28",
-                    "2022-07-05",
-                    "2023-09-21",
-                    "2023-11-30"
+                    "2022-04-05"
                 ],
                 "last_modified_dates": [
-                    "2024-11-21",
-                    "2024-11-29"
+                    "2024-11-21"
+                ]
+            }
+        }
+    },
+    "redhat": {
+        "total_counts": 3,
+        "subproducts": {
+            "enterprise_linux_workstation": {
+                "counts": 1,
+                "published_dates": [
+                    "2019-02-19"
+                ],
+                "last_modified_dates": [
+                    "2024-11-21"
+                ]
+            },
+            "enterprise_linux_server": {
+                "counts": 1,
+                "published_dates": [
+                    "2019-02-19"
+                ],
+                "last_modified_dates": [
+                    "2024-11-21"
+                ]
+            },
+            "enterprise_linux_desktop": {
+                "counts": 1,
+                "published_dates": [
+                    "2019-02-19"
+                ],
+                "last_modified_dates": [
+                    "2024-11-21"
                 ]
             }
         }
@@ -41,64 +68,23 @@
             }
         }
     },
-    "redhat": {
-        "total_counts": 3,
+    "debian": {
+        "total_counts": 7,
         "subproducts": {
-            "enterprise_linux_desktop": {
-                "counts": 1,
-                "published_dates": [
-                    "2019-02-19"
-                ],
-                "last_modified_dates": [
-                    "2024-11-21"
-                ]
-            },
-            "enterprise_linux_server": {
-                "counts": 1,
-                "published_dates": [
-                    "2019-02-19"
-                ],
-                "last_modified_dates": [
-                    "2024-11-21"
-                ]
-            },
-            "enterprise_linux_workstation": {
-                "counts": 1,
-                "published_dates": [
-                    "2019-02-19"
-                ],
-                "last_modified_dates": [
-                    "2024-11-21"
-                ]
-            }
-        }
-    },
-    "google": {
-        "total_counts": 3,
-        "subproducts": {
-            "chrome": {
-                "counts": 3,
+            "debian_linux": {
+                "counts": 7,
                 "published_dates": [
                     "2019-02-19",
+                    "2021-02-11",
                     "2021-11-23",
-                    "2022-04-05"
+                    "2021-12-28",
+                    "2022-07-05",
+                    "2023-09-21",
+                    "2023-11-30"
                 ],
                 "last_modified_dates": [
-                    "2024-11-21"
-                ]
-            }
-        }
-    },
-    "openssl": {
-        "total_counts": 1,
-        "subproducts": {
-            "openssl": {
-                "counts": 1,
-                "published_dates": [
-                    "2022-07-05"
-                ],
-                "last_modified_dates": [
-                    "2024-11-21"
+                    "2024-11-21",
+                    "2024-11-29"
                 ]
             }
         }
@@ -106,15 +92,6 @@
     "netapp": {
         "total_counts": 15,
         "subproducts": {
-            "clustered_data_ontap_antivirus_connector": {
-                "counts": 1,
-                "published_dates": [
-                    "2022-07-05"
-                ],
-                "last_modified_dates": [
-                    "2024-11-21"
-                ]
-            },
             "h700s_firmware": {
                 "counts": 1,
                 "published_dates": [
@@ -133,7 +110,7 @@
                     "2024-11-21"
                 ]
             },
-            "h500s_firmware": {
+            "h410c_firmware": {
                 "counts": 1,
                 "published_dates": [
                     "2022-07-05"
@@ -153,7 +130,7 @@
                     "2024-11-29"
                 ]
             },
-            "h300s_firmware": {
+            "h500s_firmware": {
                 "counts": 1,
                 "published_dates": [
                     "2022-07-05"
@@ -162,7 +139,16 @@
                     "2024-11-21"
                 ]
             },
-            "h410c_firmware": {
+            "clustered_data_ontap_antivirus_connector": {
+                "counts": 1,
+                "published_dates": [
+                    "2022-07-05"
+                ],
+                "last_modified_dates": [
+                    "2024-11-21"
+                ]
+            },
+            "h300s_firmware": {
                 "counts": 1,
                 "published_dates": [
                     "2022-07-05"
@@ -198,7 +184,7 @@
                     "2024-11-29"
                 ]
             },
-            "oncommand_workflow_automation": {
+            "oncommand_insight": {
                 "counts": 1,
                 "published_dates": [
                     "2023-09-21"
@@ -207,7 +193,7 @@
                     "2024-11-29"
                 ]
             },
-            "oncommand_insight": {
+            "oncommand_workflow_automation": {
                 "counts": 1,
                 "published_dates": [
                     "2023-09-21"
@@ -232,9 +218,45 @@
             }
         }
     },
+    "openssl": {
+        "total_counts": 1,
+        "subproducts": {
+            "openssl": {
+                "counts": 1,
+                "published_dates": [
+                    "2022-07-05"
+                ],
+                "last_modified_dates": [
+                    "2024-11-21"
+                ]
+            }
+        }
+    },
     "microsoft": {
         "total_counts": 65,
         "subproducts": {
+            "windows_10": {
+                "counts": 9,
+                "published_dates": [
+                    "2018-12-12",
+                    "2019-06-12",
+                    "2019-09-11",
+                    "2019-10-10"
+                ],
+                "last_modified_dates": [
+                    "2024-11-21"
+                ]
+            },
+            "windows_7": {
+                "counts": 7,
+                "published_dates": [
+                    "2018-12-12",
+                    "2019-06-12"
+                ],
+                "last_modified_dates": [
+                    "2024-11-21"
+                ]
+            },
             "windows_rt_8.1": {
                 "counts": 6,
                 "published_dates": [
@@ -245,18 +267,19 @@
                     "2024-11-21"
                 ]
             },
-            "windows_8.1": {
-                "counts": 6,
+            "windows_server_2012": {
+                "counts": 8,
                 "published_dates": [
                     "2018-12-12",
-                    "2019-06-12"
+                    "2019-06-12",
+                    "2020-01-14"
                 ],
                 "last_modified_dates": [
                     "2024-11-21"
                 ]
             },
-            "windows_7": {
-                "counts": 7,
+            "windows_8.1": {
+                "counts": 6,
                 "published_dates": [
                     "2018-12-12",
                     "2019-06-12"
@@ -288,17 +311,6 @@
                     "2024-11-21"
                 ]
             },
-            "windows_server_2012": {
-                "counts": 8,
-                "published_dates": [
-                    "2018-12-12",
-                    "2019-06-12",
-                    "2020-01-14"
-                ],
-                "last_modified_dates": [
-                    "2024-11-21"
-                ]
-            },
             "windows_server_2019": {
                 "counts": 10,
                 "published_dates": [
@@ -307,18 +319,6 @@
                     "2019-09-11",
                     "2019-10-10",
                     "2020-01-14"
-                ],
-                "last_modified_dates": [
-                    "2024-11-21"
-                ]
-            },
-            "windows_10": {
-                "counts": 9,
-                "published_dates": [
-                    "2018-12-12",
-                    "2019-06-12",
-                    "2019-09-11",
-                    "2019-10-10"
                 ],
                 "last_modified_dates": [
                     "2024-11-21"
@@ -372,6 +372,24 @@
                     "2024-11-21"
                 ]
             },
+            "primavera_p6_enterprise_project_portfolio_management": {
+                "counts": 1,
+                "published_dates": [
+                    "2021-12-28"
+                ],
+                "last_modified_dates": [
+                    "2024-11-21"
+                ]
+            },
+            "communications_diameter_signaling_router": {
+                "counts": 1,
+                "published_dates": [
+                    "2021-12-28"
+                ],
+                "last_modified_dates": [
+                    "2024-11-21"
+                ]
+            },
             "policy_automation_for_mobile_devices": {
                 "counts": 1,
                 "published_dates": [
@@ -381,7 +399,7 @@
                     "2024-11-21"
                 ]
             },
-            "retail_assortment_planning": {
+            "primavera_gateway": {
                 "counts": 1,
                 "published_dates": [
                     "2021-12-28"
@@ -390,27 +408,7 @@
                     "2024-11-21"
                 ]
             },
-            "weblogic_server": {
-                "counts": 4,
-                "published_dates": [
-                    "2018-07-18",
-                    "2019-04-23",
-                    "2021-12-28"
-                ],
-                "last_modified_dates": [
-                    "2024-11-21"
-                ]
-            },
-            "health_sciences_data_management_workbench": {
-                "counts": 1,
-                "published_dates": [
-                    "2021-12-28"
-                ],
-                "last_modified_dates": [
-                    "2024-11-21"
-                ]
-            },
-            "siebel_ui_framework": {
+            "primavera_unifier": {
                 "counts": 1,
                 "published_dates": [
                     "2021-12-28"
@@ -437,61 +435,18 @@
                     "2024-11-21"
                 ]
             },
-            "retail_xstore_point_of_service": {
-                "counts": 1,
+            "weblogic_server": {
+                "counts": 4,
                 "published_dates": [
+                    "2018-07-18",
+                    "2019-04-23",
                     "2021-12-28"
                 ],
                 "last_modified_dates": [
                     "2024-11-21"
                 ]
             },
-            "communications_diameter_signaling_router": {
-                "counts": 1,
-                "published_dates": [
-                    "2021-12-28"
-                ],
-                "last_modified_dates": [
-                    "2024-11-21"
-                ]
-            },
-            "communications_interactive_session_recorder": {
-                "counts": 1,
-                "published_dates": [
-                    "2021-12-28"
-                ],
-                "last_modified_dates": [
-                    "2024-11-21"
-                ]
-            },
-            "product_lifecycle_analytics": {
-                "counts": 1,
-                "published_dates": [
-                    "2021-12-28"
-                ],
-                "last_modified_dates": [
-                    "2024-11-21"
-                ]
-            },
-            "communications_offline_mediation_controller": {
-                "counts": 1,
-                "published_dates": [
-                    "2021-12-28"
-                ],
-                "last_modified_dates": [
-                    "2024-11-21"
-                ]
-            },
-            "primavera_unifier": {
-                "counts": 1,
-                "published_dates": [
-                    "2021-12-28"
-                ],
-                "last_modified_dates": [
-                    "2024-11-21"
-                ]
-            },
-            "primavera_p6_enterprise_project_portfolio_management": {
+            "retail_assortment_planning": {
                 "counts": 1,
                 "published_dates": [
                     "2021-12-28"
@@ -509,7 +464,7 @@
                     "2024-11-21"
                 ]
             },
-            "retail_order_broker": {
+            "communications_offline_mediation_controller": {
                 "counts": 1,
                 "published_dates": [
                     "2021-12-28"
@@ -518,7 +473,34 @@
                     "2024-11-21"
                 ]
             },
-            "primavera_gateway": {
+            "product_lifecycle_analytics": {
+                "counts": 1,
+                "published_dates": [
+                    "2021-12-28"
+                ],
+                "last_modified_dates": [
+                    "2024-11-21"
+                ]
+            },
+            "siebel_ui_framework": {
+                "counts": 1,
+                "published_dates": [
+                    "2021-12-28"
+                ],
+                "last_modified_dates": [
+                    "2024-11-21"
+                ]
+            },
+            "communications_interactive_session_recorder": {
+                "counts": 1,
+                "published_dates": [
+                    "2021-12-28"
+                ],
+                "last_modified_dates": [
+                    "2024-11-21"
+                ]
+            },
+            "retail_order_broker": {
                 "counts": 1,
                 "published_dates": [
                     "2021-12-28"
@@ -536,7 +518,25 @@
                     "2024-11-21"
                 ]
             },
-            "graalvm": {
+            "retail_xstore_point_of_service": {
+                "counts": 1,
+                "published_dates": [
+                    "2021-12-28"
+                ],
+                "last_modified_dates": [
+                    "2024-11-21"
+                ]
+            },
+            "health_sciences_data_management_workbench": {
+                "counts": 1,
+                "published_dates": [
+                    "2021-12-28"
+                ],
+                "last_modified_dates": [
+                    "2024-11-21"
+                ]
+            },
+            "jre": {
                 "counts": 1,
                 "published_dates": [
                     "2023-09-21"
@@ -545,7 +545,7 @@
                     "2024-11-29"
                 ]
             },
-            "jre": {
+            "graalvm": {
                 "counts": 1,
                 "published_dates": [
                     "2023-09-21"
@@ -749,7 +749,7 @@
                     "2024-11-21"
                 ]
             },
-            "asa_5550_firmware": {
+            "asa_5512-x_firmware": {
                 "counts": 1,
                 "published_dates": [
                     "2020-05-06"
@@ -758,16 +758,7 @@
                     "2024-11-21"
                 ]
             },
-            "asa_5505_firmware": {
-                "counts": 1,
-                "published_dates": [
-                    "2020-05-06"
-                ],
-                "last_modified_dates": [
-                    "2024-11-21"
-                ]
-            },
-            "asa_5520_firmware": {
+            "asa_5525-x_firmware": {
                 "counts": 1,
                 "published_dates": [
                     "2020-05-06"
@@ -785,7 +776,34 @@
                     "2024-11-21"
                 ]
             },
-            "asa_5512-x_firmware": {
+            "asa_5555-x_firmware": {
+                "counts": 1,
+                "published_dates": [
+                    "2020-05-06"
+                ],
+                "last_modified_dates": [
+                    "2024-11-21"
+                ]
+            },
+            "asa_5505_firmware": {
+                "counts": 1,
+                "published_dates": [
+                    "2020-05-06"
+                ],
+                "last_modified_dates": [
+                    "2024-11-21"
+                ]
+            },
+            "asa_5580_firmware": {
+                "counts": 1,
+                "published_dates": [
+                    "2020-05-06"
+                ],
+                "last_modified_dates": [
+                    "2024-11-21"
+                ]
+            },
+            "asa_5585-x_firmware": {
                 "counts": 1,
                 "published_dates": [
                     "2020-05-06"
@@ -812,43 +830,25 @@
                     "2024-11-21"
                 ]
             },
-            "asa_5555-x_firmware": {
-                "counts": 1,
-                "published_dates": [
-                    "2020-05-06"
-                ],
-                "last_modified_dates": [
-                    "2024-11-21"
-                ]
-            },
-            "asa_5585-x_firmware": {
-                "counts": 1,
-                "published_dates": [
-                    "2020-05-06"
-                ],
-                "last_modified_dates": [
-                    "2024-11-21"
-                ]
-            },
-            "asa_5525-x_firmware": {
-                "counts": 1,
-                "published_dates": [
-                    "2020-05-06"
-                ],
-                "last_modified_dates": [
-                    "2024-11-21"
-                ]
-            },
-            "asa_5580_firmware": {
-                "counts": 1,
-                "published_dates": [
-                    "2020-05-06"
-                ],
-                "last_modified_dates": [
-                    "2024-11-21"
-                ]
-            },
             "asa_5545-x_firmware": {
+                "counts": 1,
+                "published_dates": [
+                    "2020-05-06"
+                ],
+                "last_modified_dates": [
+                    "2024-11-21"
+                ]
+            },
+            "asa_5550_firmware": {
+                "counts": 1,
+                "published_dates": [
+                    "2020-05-06"
+                ],
+                "last_modified_dates": [
+                    "2024-11-21"
+                ]
+            },
+            "asa_5520_firmware": {
                 "counts": 1,
                 "published_dates": [
                     "2020-05-06"
@@ -929,7 +929,7 @@
                     "2024-11-21"
                 ]
             },
-            "vrealize_suite_lifecycle_manager": {
+            "identity_manager": {
                 "counts": 2,
                 "published_dates": [
                     "2022-04-13"
@@ -956,7 +956,7 @@
                     "2024-11-21"
                 ]
             },
-            "identity_manager": {
+            "vrealize_suite_lifecycle_manager": {
                 "counts": 2,
                 "published_dates": [
                     "2022-04-13"
@@ -1002,6 +1002,15 @@
     "trendmicro": {
         "total_counts": 5,
         "subproducts": {
+            "worry-free_business_security": {
+                "counts": 1,
+                "published_dates": [
+                    "2019-04-05"
+                ],
+                "last_modified_dates": [
+                    "2024-11-21"
+                ]
+            },
             "officescan": {
                 "counts": 1,
                 "published_dates": [
@@ -1012,15 +1021,6 @@
                 ]
             },
             "business_security": {
-                "counts": 1,
-                "published_dates": [
-                    "2019-04-05"
-                ],
-                "last_modified_dates": [
-                    "2024-11-21"
-                ]
-            },
-            "worry-free_business_security": {
                 "counts": 1,
                 "published_dates": [
                     "2019-04-05"
@@ -1052,13 +1052,11 @@
     "apple": {
         "total_counts": 23,
         "subproducts": {
-            "iphone_os": {
-                "counts": 5,
+            "watchos": {
+                "counts": 3,
                 "published_dates": [
                     "2022-05-26",
-                    "2023-09-07",
-                    "2023-09-21",
-                    "2023-11-30"
+                    "2023-09-07"
                 ],
                 "last_modified_dates": [
                     "2024-11-21",
@@ -1078,11 +1076,13 @@
                     "2024-11-29"
                 ]
             },
-            "watchos": {
-                "counts": 3,
+            "iphone_os": {
+                "counts": 5,
                 "published_dates": [
                     "2022-05-26",
-                    "2023-09-07"
+                    "2023-09-07",
+                    "2023-09-21",
+                    "2023-11-30"
                 ],
                 "last_modified_dates": [
                     "2024-11-21",
@@ -1157,15 +1157,6 @@
                     "2024-11-21"
                 ]
             },
-            "n200re_firmware": {
-                "counts": 1,
-                "published_dates": [
-                    "2020-01-27"
-                ],
-                "last_modified_dates": [
-                    "2024-11-21"
-                ]
-            },
             "n100re_firmware": {
                 "counts": 1,
                 "published_dates": [
@@ -1193,6 +1184,15 @@
                     "2024-11-21"
                 ]
             },
+            "n200re_firmware": {
+                "counts": 1,
+                "published_dates": [
+                    "2020-01-27"
+                ],
+                "last_modified_dates": [
+                    "2024-11-21"
+                ]
+            },
             "n302r_firmware": {
                 "counts": 1,
                 "published_dates": [
@@ -1202,7 +1202,7 @@
                     "2024-11-21"
                 ]
             },
-            "a702r_firmware": {
+            "n300rt_firmware": {
                 "counts": 1,
                 "published_dates": [
                     "2020-01-27"
@@ -1211,7 +1211,7 @@
                     "2024-11-21"
                 ]
             },
-            "n300rt_firmware": {
+            "a702r_firmware": {
                 "counts": 1,
                 "published_dates": [
                     "2020-01-27"
@@ -1336,6 +1336,15 @@
     "dlink": {
         "total_counts": 10,
         "subproducts": {
+            "dwr-512_firmware": {
+                "counts": 1,
+                "published_dates": [
+                    "2018-10-17"
+                ],
+                "last_modified_dates": [
+                    "2024-11-21"
+                ]
+            },
             "dwr-111_firmware": {
                 "counts": 1,
                 "published_dates": [
@@ -1355,15 +1364,6 @@
                 ]
             },
             "dwr-116_firmware": {
-                "counts": 1,
-                "published_dates": [
-                    "2018-10-17"
-                ],
-                "last_modified_dates": [
-                    "2024-11-21"
-                ]
-            },
-            "dwr-512_firmware": {
                 "counts": 1,
                 "published_dates": [
                     "2018-10-17"
@@ -1436,7 +1436,7 @@
     "ivanti": {
         "total_counts": 5,
         "subproducts": {
-            "policy_secure": {
+            "connect_secure": {
                 "counts": 2,
                 "published_dates": [
                     "2024-01-31"
@@ -1446,7 +1446,7 @@
                     "2024-11-29"
                 ]
             },
-            "connect_secure": {
+            "policy_secure": {
                 "counts": 2,
                 "published_dates": [
                     "2024-01-31"
