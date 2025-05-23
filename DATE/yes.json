@@ -14,42 +14,9 @@
         }
     },
     "microsoft": {
-        "total_counts": 95,
+        "total_counts": 14,
         "subproducts": {
-            "windows_server_1709": {
-                "counts": 1,
-                "published_dates": [
-                    "2019-06-12"
-                ],
-                "last_modified_dates": [
-                    "2025-05-21"
-                ]
-            },
-            "windows_10_1607": {
-                "counts": 6,
-                "published_dates": [
-                    "2019-06-12",
-                    "2024-08-13",
-                    "2025-04-08",
-                    "2025-05-13"
-                ],
-                "last_modified_dates": [
-                    "2025-05-13",
-                    "2025-05-14",
-                    "2025-05-16",
-                    "2025-05-21"
-                ]
-            },
-            "windows_server_1803": {
-                "counts": 1,
-                "published_dates": [
-                    "2019-06-12"
-                ],
-                "last_modified_dates": [
-                    "2025-05-21"
-                ]
-            },
-            "windows_10_1809": {
+            "windows_client": {
                 "counts": 7,
                 "published_dates": [
                     "2019-06-12",
@@ -64,22 +31,7 @@
                     "2025-05-21"
                 ]
             },
-            "windows_server_2016": {
-                "counts": 6,
-                "published_dates": [
-                    "2019-06-12",
-                    "2024-08-13",
-                    "2025-04-08",
-                    "2025-05-13"
-                ],
-                "last_modified_dates": [
-                    "2025-05-13",
-                    "2025-05-14",
-                    "2025-05-16",
-                    "2025-05-21"
-                ]
-            },
-            "windows_server_2019": {
+            "windows_server": {
                 "counts": 7,
                 "published_dates": [
                     "2019-06-12",
@@ -92,201 +44,6 @@
                     "2025-05-14",
                     "2025-05-16",
                     "2025-05-21"
-                ]
-            },
-            "windows_10_1703": {
-                "counts": 1,
-                "published_dates": [
-                    "2019-06-12"
-                ],
-                "last_modified_dates": [
-                    "2025-05-21"
-                ]
-            },
-            "windows_10_1709": {
-                "counts": 1,
-                "published_dates": [
-                    "2019-06-12"
-                ],
-                "last_modified_dates": [
-                    "2025-05-21"
-                ]
-            },
-            "windows_10_1903": {
-                "counts": 1,
-                "published_dates": [
-                    "2019-06-12"
-                ],
-                "last_modified_dates": [
-                    "2025-05-21"
-                ]
-            },
-            "windows_server_1903": {
-                "counts": 1,
-                "published_dates": [
-                    "2019-06-12"
-                ],
-                "last_modified_dates": [
-                    "2025-05-21"
-                ]
-            },
-            "windows_10_1803": {
-                "counts": 1,
-                "published_dates": [
-                    "2019-06-12"
-                ],
-                "last_modified_dates": [
-                    "2025-05-21"
-                ]
-            },
-            "windows_11_21h2": {
-                "counts": 1,
-                "published_dates": [
-                    "2024-08-13"
-                ],
-                "last_modified_dates": [
-                    "2025-05-13"
-                ]
-            },
-            "windows_10_22h2": {
-                "counts": 6,
-                "published_dates": [
-                    "2024-08-13",
-                    "2025-04-08",
-                    "2025-05-13"
-                ],
-                "last_modified_dates": [
-                    "2025-05-13",
-                    "2025-05-14",
-                    "2025-05-16"
-                ]
-            },
-            "windows_server_2012": {
-                "counts": 5,
-                "published_dates": [
-                    "2024-08-13",
-                    "2025-04-08",
-                    "2025-05-13"
-                ],
-                "last_modified_dates": [
-                    "2025-05-13",
-                    "2025-05-14",
-                    "2025-05-16"
-                ]
-            },
-            "windows_11_22h2": {
-                "counts": 6,
-                "published_dates": [
-                    "2024-08-13",
-                    "2025-04-08",
-                    "2025-05-13"
-                ],
-                "last_modified_dates": [
-                    "2025-05-13",
-                    "2025-05-14",
-                    "2025-05-16"
-                ]
-            },
-            "windows_server_2022_23h2": {
-                "counts": 6,
-                "published_dates": [
-                    "2024-08-13",
-                    "2025-04-08",
-                    "2025-05-13"
-                ],
-                "last_modified_dates": [
-                    "2025-05-13",
-                    "2025-05-14",
-                    "2025-05-16"
-                ]
-            },
-            "windows_11_24h2": {
-                "counts": 6,
-                "published_dates": [
-                    "2024-08-13",
-                    "2025-04-08",
-                    "2025-05-13"
-                ],
-                "last_modified_dates": [
-                    "2025-05-13",
-                    "2025-05-14",
-                    "2025-05-16"
-                ]
-            },
-            "windows_10_1507": {
-                "counts": 5,
-                "published_dates": [
-                    "2024-08-13",
-                    "2025-04-08",
-                    "2025-05-13"
-                ],
-                "last_modified_dates": [
-                    "2025-05-13",
-                    "2025-05-14",
-                    "2025-05-16"
-                ]
-            },
-            "windows_10_21h2": {
-                "counts": 6,
-                "published_dates": [
-                    "2024-08-13",
-                    "2025-04-08",
-                    "2025-05-13"
-                ],
-                "last_modified_dates": [
-                    "2025-05-13",
-                    "2025-05-14",
-                    "2025-05-16"
-                ]
-            },
-            "windows_11_23h2": {
-                "counts": 6,
-                "published_dates": [
-                    "2024-08-13",
-                    "2025-04-08",
-                    "2025-05-13"
-                ],
-                "last_modified_dates": [
-                    "2025-05-13",
-                    "2025-05-14",
-                    "2025-05-16"
-                ]
-            },
-            "windows_server_2022": {
-                "counts": 6,
-                "published_dates": [
-                    "2024-08-13",
-                    "2025-04-08",
-                    "2025-05-13"
-                ],
-                "last_modified_dates": [
-                    "2025-05-13",
-                    "2025-05-14",
-                    "2025-05-16"
-                ]
-            },
-            "windows_server_2008": {
-                "counts": 4,
-                "published_dates": [
-                    "2024-08-13",
-                    "2025-04-08",
-                    "2025-05-13"
-                ],
-                "last_modified_dates": [
-                    "2025-05-13",
-                    "2025-05-14",
-                    "2025-05-16"
-                ]
-            },
-            "windows_server_2025": {
-                "counts": 5,
-                "published_dates": [
-                    "2025-04-08",
-                    "2025-05-13"
-                ],
-                "last_modified_dates": [
-                    "2025-05-14",
-                    "2025-05-16"
                 ]
             }
         }
@@ -319,60 +76,10 @@
             }
         }
     },
-    "oracle": {
-        "total_counts": 5,
-        "subproducts": {
-            "secure_global_desktop": {
-                "counts": 1,
-                "published_dates": [
-                    "2021-09-16"
-                ],
-                "last_modified_dates": [
-                    "2025-05-16"
-                ]
-            },
-            "zfs_storage_appliance_kit": {
-                "counts": 1,
-                "published_dates": [
-                    "2021-09-16"
-                ],
-                "last_modified_dates": [
-                    "2025-05-16"
-                ]
-            },
-            "http_server": {
-                "counts": 1,
-                "published_dates": [
-                    "2021-09-16"
-                ],
-                "last_modified_dates": [
-                    "2025-05-16"
-                ]
-            },
-            "enterprise_manager_ops_center": {
-                "counts": 1,
-                "published_dates": [
-                    "2021-09-16"
-                ],
-                "last_modified_dates": [
-                    "2025-05-16"
-                ]
-            },
-            "instantis_enterprisetrack": {
-                "counts": 1,
-                "published_dates": [
-                    "2021-09-16"
-                ],
-                "last_modified_dates": [
-                    "2025-05-16"
-                ]
-            }
-        }
-    },
     "redhat": {
         "total_counts": 20,
         "subproducts": {
-            "jboss_core_services": {
+            "enterprise_linux_for_ibm_z_systems_eus": {
                 "counts": 1,
                 "published_dates": [
                     "2021-09-16"
@@ -390,16 +97,7 @@
                     "2025-05-16"
                 ]
             },
-            "enterprise_linux_eus": {
-                "counts": 1,
-                "published_dates": [
-                    "2021-09-16"
-                ],
-                "last_modified_dates": [
-                    "2025-05-16"
-                ]
-            },
-            "enterprise_linux_for_power_big_endian": {
+            "enterprise_linux_for_arm_64_eus": {
                 "counts": 1,
                 "published_dates": [
                     "2021-09-16"
@@ -417,25 +115,7 @@
                     "2025-05-16"
                 ]
             },
-            "enterprise_linux_server_tus": {
-                "counts": 1,
-                "published_dates": [
-                    "2021-09-16"
-                ],
-                "last_modified_dates": [
-                    "2025-05-16"
-                ]
-            },
-            "enterprise_linux_for_power_little_endian": {
-                "counts": 1,
-                "published_dates": [
-                    "2021-09-16"
-                ],
-                "last_modified_dates": [
-                    "2025-05-16"
-                ]
-            },
-            "enterprise_linux_server_aus": {
+            "enterprise_linux_for_arm_64": {
                 "counts": 1,
                 "published_dates": [
                     "2021-09-16"
@@ -453,7 +133,97 @@
                     "2025-05-16"
                 ]
             },
-            "enterprise_linux_for_power_little_endian_eus": {
+            "enterprise_linux_server_aus": {
+                "counts": 1,
+                "published_dates": [
+                    "2021-09-16"
+                ],
+                "last_modified_dates": [
+                    "2025-05-16"
+                ]
+            },
+            "enterprise_linux_for_power_big_endian": {
+                "counts": 1,
+                "published_dates": [
+                    "2021-09-16"
+                ],
+                "last_modified_dates": [
+                    "2025-05-16"
+                ]
+            },
+            "enterprise_linux_server": {
+                "counts": 1,
+                "published_dates": [
+                    "2021-09-16"
+                ],
+                "last_modified_dates": [
+                    "2025-05-16"
+                ]
+            },
+            "enterprise_linux_update_services_for_sap_solutions": {
+                "counts": 1,
+                "published_dates": [
+                    "2021-09-16"
+                ],
+                "last_modified_dates": [
+                    "2025-05-16"
+                ]
+            },
+            "enterprise_linux_for_power_little_endian": {
+                "counts": 1,
+                "published_dates": [
+                    "2021-09-16"
+                ],
+                "last_modified_dates": [
+                    "2025-05-16"
+                ]
+            },
+            "jboss_core_services": {
+                "counts": 1,
+                "published_dates": [
+                    "2021-09-16"
+                ],
+                "last_modified_dates": [
+                    "2025-05-16"
+                ]
+            },
+            "enterprise_linux_server_update_services_for_sap_solutions": {
+                "counts": 1,
+                "published_dates": [
+                    "2021-09-16"
+                ],
+                "last_modified_dates": [
+                    "2025-05-16"
+                ]
+            },
+            "enterprise_linux_for_ibm_z_systems_eus_s390x": {
+                "counts": 1,
+                "published_dates": [
+                    "2021-09-16"
+                ],
+                "last_modified_dates": [
+                    "2025-05-16"
+                ]
+            },
+            "enterprise_linux_server_tus": {
+                "counts": 1,
+                "published_dates": [
+                    "2021-09-16"
+                ],
+                "last_modified_dates": [
+                    "2025-05-16"
+                ]
+            },
+            "enterprise_linux_server_for_power_little_endian_update_services_for_sap_solutions": {
+                "counts": 1,
+                "published_dates": [
+                    "2021-09-16"
+                ],
+                "last_modified_dates": [
+                    "2025-05-16"
+                ]
+            },
+            "enterprise_linux_eus": {
                 "counts": 1,
                 "published_dates": [
                     "2021-09-16"
@@ -480,70 +250,7 @@
                     "2025-05-16"
                 ]
             },
-            "enterprise_linux_for_arm_64_eus": {
-                "counts": 1,
-                "published_dates": [
-                    "2021-09-16"
-                ],
-                "last_modified_dates": [
-                    "2025-05-16"
-                ]
-            },
-            "enterprise_linux_for_ibm_z_systems_eus_s390x": {
-                "counts": 1,
-                "published_dates": [
-                    "2021-09-16"
-                ],
-                "last_modified_dates": [
-                    "2025-05-16"
-                ]
-            },
-            "enterprise_linux_server_for_power_little_endian_update_services_for_sap_solutions": {
-                "counts": 1,
-                "published_dates": [
-                    "2021-09-16"
-                ],
-                "last_modified_dates": [
-                    "2025-05-16"
-                ]
-            },
-            "enterprise_linux_for_arm_64": {
-                "counts": 1,
-                "published_dates": [
-                    "2021-09-16"
-                ],
-                "last_modified_dates": [
-                    "2025-05-16"
-                ]
-            },
-            "enterprise_linux_server": {
-                "counts": 1,
-                "published_dates": [
-                    "2021-09-16"
-                ],
-                "last_modified_dates": [
-                    "2025-05-16"
-                ]
-            },
-            "enterprise_linux_for_ibm_z_systems_eus": {
-                "counts": 1,
-                "published_dates": [
-                    "2021-09-16"
-                ],
-                "last_modified_dates": [
-                    "2025-05-16"
-                ]
-            },
-            "enterprise_linux_server_update_services_for_sap_solutions": {
-                "counts": 1,
-                "published_dates": [
-                    "2021-09-16"
-                ],
-                "last_modified_dates": [
-                    "2025-05-16"
-                ]
-            },
-            "enterprise_linux_update_services_for_sap_solutions": {
+            "enterprise_linux_for_power_little_endian_eus": {
                 "counts": 1,
                 "published_dates": [
                     "2021-09-16"
@@ -554,10 +261,10 @@
             }
         }
     },
-    "siemens": {
-        "total_counts": 4,
+    "netapp": {
+        "total_counts": 3,
         "subproducts": {
-            "sinema_remote_connect_server": {
+            "clustered_data_ontap": {
                 "counts": 1,
                 "published_dates": [
                     "2021-09-16"
@@ -566,7 +273,7 @@
                     "2025-05-16"
                 ]
             },
-            "ruggedcom_nms": {
+            "cloud_backup": {
                 "counts": 1,
                 "published_dates": [
                     "2021-09-16"
@@ -575,7 +282,21 @@
                     "2025-05-16"
                 ]
             },
-            "sinec_nms": {
+            "storagegrid": {
+                "counts": 1,
+                "published_dates": [
+                    "2021-09-16"
+                ],
+                "last_modified_dates": [
+                    "2025-05-16"
+                ]
+            }
+        }
+    },
+    "oracle": {
+        "total_counts": 5,
+        "subproducts": {
+            "instantis_enterprisetrack": {
                 "counts": 1,
                 "published_dates": [
                     "2021-09-16"
@@ -584,7 +305,34 @@
                     "2025-05-16"
                 ]
             },
-            "sinema_server": {
+            "zfs_storage_appliance_kit": {
+                "counts": 1,
+                "published_dates": [
+                    "2021-09-16"
+                ],
+                "last_modified_dates": [
+                    "2025-05-16"
+                ]
+            },
+            "secure_global_desktop": {
+                "counts": 1,
+                "published_dates": [
+                    "2021-09-16"
+                ],
+                "last_modified_dates": [
+                    "2025-05-16"
+                ]
+            },
+            "http_server": {
+                "counts": 1,
+                "published_dates": [
+                    "2021-09-16"
+                ],
+                "last_modified_dates": [
+                    "2025-05-16"
+                ]
+            },
+            "enterprise_manager_ops_center": {
                 "counts": 1,
                 "published_dates": [
                     "2021-09-16"
@@ -609,84 +357,10 @@
             }
         }
     },
-    "fedoraproject": {
-        "total_counts": 1,
-        "subproducts": {
-            "fedora": {
-                "counts": 1,
-                "published_dates": [
-                    "2021-09-16"
-                ],
-                "last_modified_dates": [
-                    "2025-05-16"
-                ]
-            }
-        }
-    },
-    "netapp": {
-        "total_counts": 3,
-        "subproducts": {
-            "storagegrid": {
-                "counts": 1,
-                "published_dates": [
-                    "2021-09-16"
-                ],
-                "last_modified_dates": [
-                    "2025-05-16"
-                ]
-            },
-            "cloud_backup": {
-                "counts": 1,
-                "published_dates": [
-                    "2021-09-16"
-                ],
-                "last_modified_dates": [
-                    "2025-05-16"
-                ]
-            },
-            "clustered_data_ontap": {
-                "counts": 1,
-                "published_dates": [
-                    "2021-09-16"
-                ],
-                "last_modified_dates": [
-                    "2025-05-16"
-                ]
-            }
-        }
-    },
-    "apache": {
-        "total_counts": 1,
-        "subproducts": {
-            "http_server": {
-                "counts": 1,
-                "published_dates": [
-                    "2021-09-16"
-                ],
-                "last_modified_dates": [
-                    "2025-05-16"
-                ]
-            }
-        }
-    },
     "tenable": {
         "total_counts": 1,
         "subproducts": {
             "tenable.sc": {
-                "counts": 1,
-                "published_dates": [
-                    "2021-09-16"
-                ],
-                "last_modified_dates": [
-                    "2025-05-16"
-                ]
-            }
-        }
-    },
-    "resf": {
-        "total_counts": 1,
-        "subproducts": {
-            "rocky_linux": {
                 "counts": 1,
                 "published_dates": [
                     "2021-09-16"
@@ -725,19 +399,93 @@
             }
         }
     },
-    "fortinet": {
-        "total_counts": 5,
+    "fedoraproject": {
+        "total_counts": 1,
         "subproducts": {
-            "fortivoice": {
+            "fedora": {
                 "counts": 1,
                 "published_dates": [
-                    "2025-05-13"
+                    "2021-09-16"
+                ],
+                "last_modified_dates": [
+                    "2025-05-16"
+                ]
+            }
+        }
+    },
+    "siemens": {
+        "total_counts": 4,
+        "subproducts": {
+            "sinema_remote_connect_server": {
+                "counts": 1,
+                "published_dates": [
+                    "2021-09-16"
                 ],
                 "last_modified_dates": [
                     "2025-05-16"
                 ]
             },
-            "fortimail": {
+            "sinema_server": {
+                "counts": 1,
+                "published_dates": [
+                    "2021-09-16"
+                ],
+                "last_modified_dates": [
+                    "2025-05-16"
+                ]
+            },
+            "sinec_nms": {
+                "counts": 1,
+                "published_dates": [
+                    "2021-09-16"
+                ],
+                "last_modified_dates": [
+                    "2025-05-16"
+                ]
+            },
+            "ruggedcom_nms": {
+                "counts": 1,
+                "published_dates": [
+                    "2021-09-16"
+                ],
+                "last_modified_dates": [
+                    "2025-05-16"
+                ]
+            }
+        }
+    },
+    "apache": {
+        "total_counts": 1,
+        "subproducts": {
+            "http_server": {
+                "counts": 1,
+                "published_dates": [
+                    "2021-09-16"
+                ],
+                "last_modified_dates": [
+                    "2025-05-16"
+                ]
+            }
+        }
+    },
+    "resf": {
+        "total_counts": 1,
+        "subproducts": {
+            "rocky_linux": {
+                "counts": 1,
+                "published_dates": [
+                    "2021-09-16"
+                ],
+                "last_modified_dates": [
+                    "2025-05-16"
+                ]
+            }
+        }
+    },
+    "fortinet": {
+        "total_counts": 5,
+        "subproducts": {
+            "forticamera_firmware": {
                 "counts": 1,
                 "published_dates": [
                     "2025-05-13"
@@ -755,6 +503,15 @@
                     "2025-05-16"
                 ]
             },
+            "fortimail": {
+                "counts": 1,
+                "published_dates": [
+                    "2025-05-13"
+                ],
+                "last_modified_dates": [
+                    "2025-05-16"
+                ]
+            },
             "fortirecorder": {
                 "counts": 1,
                 "published_dates": [
@@ -764,13 +521,27 @@
                     "2025-05-16"
                 ]
             },
-            "forticamera_firmware": {
+            "fortivoice": {
                 "counts": 1,
                 "published_dates": [
                     "2025-05-13"
                 ],
                 "last_modified_dates": [
                     "2025-05-16"
+                ]
+            }
+        }
+    },
+    "cisco": {
+        "total_counts": 1,
+        "subproducts": {
+            "ios_xe": {
+                "counts": 1,
+                "published_dates": [
+                    "2023-10-16"
+                ],
+                "last_modified_dates": [
+                    "2025-05-15"
                 ]
             }
         }
@@ -788,20 +559,6 @@
                 ]
             },
             "allen-bradley_stratix_5800_firmware": {
-                "counts": 1,
-                "published_dates": [
-                    "2023-10-16"
-                ],
-                "last_modified_dates": [
-                    "2025-05-15"
-                ]
-            }
-        }
-    },
-    "cisco": {
-        "total_counts": 1,
-        "subproducts": {
-            "ios_xe": {
                 "counts": 1,
                 "published_dates": [
                     "2023-10-16"
