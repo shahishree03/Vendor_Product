@@ -2,15 +2,6 @@
     "apple": {
         "total_counts": 10,
         "subproducts": {
-            "watchos": {
-                "counts": 1,
-                "published_dates": [
-                    "2023-09-07"
-                ],
-                "last_modified_dates": [
-                    "2024-11-29"
-                ]
-            },
             "ipados": {
                 "counts": 3,
                 "published_dates": [
@@ -28,6 +19,15 @@
                     "2023-09-07",
                     "2023-09-21",
                     "2023-11-30"
+                ],
+                "last_modified_dates": [
+                    "2024-11-29"
+                ]
+            },
+            "watchos": {
+                "counts": 1,
+                "published_dates": [
+                    "2023-09-07"
                 ],
                 "last_modified_dates": [
                     "2024-11-29"
@@ -54,10 +54,42 @@
             }
         }
     },
+    "oracle": {
+        "total_counts": 3,
+        "subproducts": {
+            "graalvm": {
+                "counts": 1,
+                "published_dates": [
+                    "2023-09-21"
+                ],
+                "last_modified_dates": [
+                    "2024-11-29"
+                ]
+            },
+            "jdk": {
+                "counts": 1,
+                "published_dates": [
+                    "2023-09-21"
+                ],
+                "last_modified_dates": [
+                    "2024-11-29"
+                ]
+            },
+            "jre": {
+                "counts": 1,
+                "published_dates": [
+                    "2023-09-21"
+                ],
+                "last_modified_dates": [
+                    "2024-11-29"
+                ]
+            }
+        }
+    },
     "netapp": {
         "total_counts": 5,
         "subproducts": {
-            "cloud_insights_acquisition_unit": {
+            "oncommand_workflow_automation": {
                 "counts": 1,
                 "published_dates": [
                     "2023-09-21"
@@ -75,7 +107,7 @@
                     "2024-11-29"
                 ]
             },
-            "active_iq_unified_manager": {
+            "cloud_insights_acquisition_unit": {
                 "counts": 1,
                 "published_dates": [
                     "2023-09-21"
@@ -93,25 +125,10 @@
                     "2024-11-29"
                 ]
             },
-            "oncommand_workflow_automation": {
+            "active_iq_unified_manager": {
                 "counts": 1,
                 "published_dates": [
                     "2023-09-21"
-                ],
-                "last_modified_dates": [
-                    "2024-11-29"
-                ]
-            }
-        }
-    },
-    "webkitgtk": {
-        "total_counts": 2,
-        "subproducts": {
-            "webkitgtk\\+": {
-                "counts": 2,
-                "published_dates": [
-                    "2023-09-21",
-                    "2023-11-30"
                 ],
                 "last_modified_dates": [
                     "2024-11-29"
@@ -134,31 +151,14 @@
             }
         }
     },
-    "oracle": {
-        "total_counts": 3,
+    "webkitgtk": {
+        "total_counts": 2,
         "subproducts": {
-            "jre": {
-                "counts": 1,
+            "webkitgtk\\+": {
+                "counts": 2,
                 "published_dates": [
-                    "2023-09-21"
-                ],
-                "last_modified_dates": [
-                    "2024-11-29"
-                ]
-            },
-            "graalvm": {
-                "counts": 1,
-                "published_dates": [
-                    "2023-09-21"
-                ],
-                "last_modified_dates": [
-                    "2024-11-29"
-                ]
-            },
-            "jdk": {
-                "counts": 1,
-                "published_dates": [
-                    "2023-09-21"
+                    "2023-09-21",
+                    "2023-11-30"
                 ],
                 "last_modified_dates": [
                     "2024-11-29"
@@ -193,7 +193,7 @@
                     "2024-11-29"
                 ]
             },
-            "policy_secure": {
+            "neurons_for_zero-trust_access": {
                 "counts": 1,
                 "published_dates": [
                     "2024-01-31"
@@ -202,7 +202,7 @@
                     "2024-11-29"
                 ]
             },
-            "neurons_for_zero-trust_access": {
+            "policy_secure": {
                 "counts": 1,
                 "published_dates": [
                     "2024-01-31"
