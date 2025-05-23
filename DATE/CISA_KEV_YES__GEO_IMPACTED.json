@@ -1,9 +1,9 @@
 {
     "apple": {
-        "total_counts": 14,
+        "total_counts": 10,
         "subproducts": {
-            "ipados": {
-                "counts": 5,
+            "iphone_os": {
+                "counts": 3,
                 "published_dates": [
                     "2023-09-07",
                     "2023-09-21",
@@ -13,8 +13,8 @@
                     "2024-11-29"
                 ]
             },
-            "iphone_os": {
-                "counts": 5,
+            "ipados": {
+                "counts": 3,
                 "published_dates": [
                     "2023-09-07",
                     "2023-09-21",
@@ -54,80 +54,9 @@
             }
         }
     },
-    "fedoraproject": {
+    "netapp": {
         "total_counts": 5,
         "subproducts": {
-            "fedora": {
-                "counts": 5,
-                "published_dates": [
-                    "2023-09-21",
-                    "2023-11-30"
-                ],
-                "last_modified_dates": [
-                    "2024-11-29"
-                ]
-            }
-        }
-    },
-    "debian": {
-        "total_counts": 4,
-        "subproducts": {
-            "debian_linux": {
-                "counts": 4,
-                "published_dates": [
-                    "2023-09-21",
-                    "2023-11-30"
-                ],
-                "last_modified_dates": [
-                    "2024-11-29"
-                ]
-            }
-        }
-    },
-    "oracle": {
-        "total_counts": 4,
-        "subproducts": {
-            "graalvm": {
-                "counts": 2,
-                "published_dates": [
-                    "2023-09-21"
-                ],
-                "last_modified_dates": [
-                    "2024-11-29"
-                ]
-            },
-            "jdk": {
-                "counts": 1,
-                "published_dates": [
-                    "2023-09-21"
-                ],
-                "last_modified_dates": [
-                    "2024-11-29"
-                ]
-            },
-            "jre": {
-                "counts": 1,
-                "published_dates": [
-                    "2023-09-21"
-                ],
-                "last_modified_dates": [
-                    "2024-11-29"
-                ]
-            }
-        }
-    },
-    "netapp": {
-        "total_counts": 6,
-        "subproducts": {
-            "active_iq_unified_manager": {
-                "counts": 2,
-                "published_dates": [
-                    "2023-09-21"
-                ],
-                "last_modified_dates": [
-                    "2024-11-29"
-                ]
-            },
             "cloud_insights_acquisition_unit": {
                 "counts": 1,
                 "published_dates": [
@@ -146,6 +75,15 @@
                     "2024-11-29"
                 ]
             },
+            "oncommand_workflow_automation": {
+                "counts": 1,
+                "published_dates": [
+                    "2023-09-21"
+                ],
+                "last_modified_dates": [
+                    "2024-11-29"
+                ]
+            },
             "oncommand_insight": {
                 "counts": 1,
                 "published_dates": [
@@ -155,7 +93,69 @@
                     "2024-11-29"
                 ]
             },
-            "oncommand_workflow_automation": {
+            "active_iq_unified_manager": {
+                "counts": 1,
+                "published_dates": [
+                    "2023-09-21"
+                ],
+                "last_modified_dates": [
+                    "2024-11-29"
+                ]
+            }
+        }
+    },
+    "debian": {
+        "total_counts": 2,
+        "subproducts": {
+            "debian_linux": {
+                "counts": 2,
+                "published_dates": [
+                    "2023-09-21",
+                    "2023-11-30"
+                ],
+                "last_modified_dates": [
+                    "2024-11-29"
+                ]
+            }
+        }
+    },
+    "fedoraproject": {
+        "total_counts": 2,
+        "subproducts": {
+            "fedora": {
+                "counts": 2,
+                "published_dates": [
+                    "2023-09-21",
+                    "2023-11-30"
+                ],
+                "last_modified_dates": [
+                    "2024-11-29"
+                ]
+            }
+        }
+    },
+    "oracle": {
+        "total_counts": 3,
+        "subproducts": {
+            "graalvm": {
+                "counts": 1,
+                "published_dates": [
+                    "2023-09-21"
+                ],
+                "last_modified_dates": [
+                    "2024-11-29"
+                ]
+            },
+            "jre": {
+                "counts": 1,
+                "published_dates": [
+                    "2023-09-21"
+                ],
+                "last_modified_dates": [
+                    "2024-11-29"
+                ]
+            },
+            "jdk": {
                 "counts": 1,
                 "published_dates": [
                     "2023-09-21"
@@ -182,10 +182,10 @@
         }
     },
     "ivanti": {
-        "total_counts": 118,
+        "total_counts": 3,
         "subproducts": {
-            "connect_secure": {
-                "counts": 60,
+            "neurons_for_zero-trust_access": {
+                "counts": 1,
                 "published_dates": [
                     "2024-01-31"
                 ],
@@ -194,7 +194,7 @@
                 ]
             },
             "policy_secure": {
-                "counts": 46,
+                "counts": 1,
                 "published_dates": [
                     "2024-01-31"
                 ],
@@ -202,8 +202,8 @@
                     "2024-11-29"
                 ]
             },
-            "neurons_for_zero-trust_access": {
-                "counts": 12,
+            "connect_secure": {
+                "counts": 1,
                 "published_dates": [
                     "2024-01-31"
                 ],
@@ -214,10 +214,10 @@
         }
     },
     "qlik": {
-        "total_counts": 72,
+        "total_counts": 2,
         "subproducts": {
             "qlik_sense": {
-                "counts": 72,
+                "counts": 2,
                 "published_dates": [
                     "2023-08-29"
                 ],
@@ -228,10 +228,10 @@
         }
     },
     "paloaltonetworks": {
-        "total_counts": 52,
+        "total_counts": 1,
         "subproducts": {
             "pan-os": {
-                "counts": 52,
+                "counts": 1,
                 "published_dates": [
                     "2024-04-12"
                 ],
