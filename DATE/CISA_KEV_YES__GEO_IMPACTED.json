@@ -2,12 +2,10 @@
     "apple": {
         "total_counts": 10,
         "subproducts": {
-            "iphone_os": {
-                "counts": 3,
+            "watchos": {
+                "counts": 1,
                 "published_dates": [
-                    "2023-09-07",
-                    "2023-09-21",
-                    "2023-11-30"
+                    "2023-09-07"
                 ],
                 "last_modified_dates": [
                     "2024-11-29"
@@ -24,10 +22,12 @@
                     "2024-11-29"
                 ]
             },
-            "watchos": {
-                "counts": 1,
+            "iphone_os": {
+                "counts": 3,
                 "published_dates": [
-                    "2023-09-07"
+                    "2023-09-07",
+                    "2023-09-21",
+                    "2023-11-30"
                 ],
                 "last_modified_dates": [
                     "2024-11-29"
@@ -75,7 +75,7 @@
                     "2024-11-29"
                 ]
             },
-            "oncommand_workflow_automation": {
+            "active_iq_unified_manager": {
                 "counts": 1,
                 "published_dates": [
                     "2023-09-21"
@@ -93,7 +93,7 @@
                     "2024-11-29"
                 ]
             },
-            "active_iq_unified_manager": {
+            "oncommand_workflow_automation": {
                 "counts": 1,
                 "published_dates": [
                     "2023-09-21"
@@ -104,10 +104,10 @@
             }
         }
     },
-    "debian": {
+    "webkitgtk": {
         "total_counts": 2,
         "subproducts": {
-            "debian_linux": {
+            "webkitgtk\\+": {
                 "counts": 2,
                 "published_dates": [
                     "2023-09-21",
@@ -137,7 +137,7 @@
     "oracle": {
         "total_counts": 3,
         "subproducts": {
-            "graalvm": {
+            "jre": {
                 "counts": 1,
                 "published_dates": [
                     "2023-09-21"
@@ -146,7 +146,7 @@
                     "2024-11-29"
                 ]
             },
-            "jre": {
+            "graalvm": {
                 "counts": 1,
                 "published_dates": [
                     "2023-09-21"
@@ -166,10 +166,10 @@
             }
         }
     },
-    "webkitgtk": {
+    "debian": {
         "total_counts": 2,
         "subproducts": {
-            "webkitgtk\\+": {
+            "debian_linux": {
                 "counts": 2,
                 "published_dates": [
                     "2023-09-21",
@@ -184,7 +184,7 @@
     "ivanti": {
         "total_counts": 3,
         "subproducts": {
-            "neurons_for_zero-trust_access": {
+            "connect_secure": {
                 "counts": 1,
                 "published_dates": [
                     "2024-01-31"
@@ -202,7 +202,7 @@
                     "2024-11-29"
                 ]
             },
-            "connect_secure": {
+            "neurons_for_zero-trust_access": {
                 "counts": 1,
                 "published_dates": [
                     "2024-01-31"
