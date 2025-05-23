@@ -1,4 +1,23 @@
 {
+    "fedoraproject": {
+        "total_counts": 6,
+        "subproducts": {
+            "fedora": {
+                "counts": 6,
+                "published_dates": [
+                    "2023-09-21",
+                    "2023-11-30",
+                    "2024-05-14",
+                    "2024-05-15",
+                    "2024-05-28"
+                ],
+                "last_modified_dates": [
+                    "2024-11-27",
+                    "2024-11-29"
+                ]
+            }
+        }
+    },
     "google": {
         "total_counts": 5,
         "subproducts": {
@@ -17,30 +36,11 @@
             }
         }
     },
-    "fedoraproject": {
-        "total_counts": 16,
-        "subproducts": {
-            "fedora": {
-                "counts": 16,
-                "published_dates": [
-                    "2023-09-21",
-                    "2023-11-30",
-                    "2024-05-14",
-                    "2024-05-15",
-                    "2024-05-28"
-                ],
-                "last_modified_dates": [
-                    "2024-11-27",
-                    "2024-11-29"
-                ]
-            }
-        }
-    },
     "microsoft": {
-        "total_counts": 3,
+        "total_counts": 1,
         "subproducts": {
             "exchange_server": {
-                "counts": 3,
+                "counts": 1,
                 "published_dates": [
                     "2024-02-13"
                 ],
@@ -51,31 +51,22 @@
         }
     },
     "fortinet": {
-        "total_counts": 21,
+        "total_counts": 6,
         "subproducts": {
-            "fortiproxy": {
-                "counts": 7,
-                "published_dates": [
-                    "2024-02-09",
-                    "2024-02-15"
-                ],
-                "last_modified_dates": [
-                    "2024-11-29"
-                ]
-            },
             "fortios": {
-                "counts": 9,
-                "published_dates": [
-                    "2024-02-09",
-                    "2024-02-15"
-                ],
-                "last_modified_dates": [
-                    "2024-11-29"
-                ]
-            },
-            "fortiswitchmanager": {
                 "counts": 2,
                 "published_dates": [
+                    "2024-02-09",
+                    "2024-02-15"
+                ],
+                "last_modified_dates": [
+                    "2024-11-29"
+                ]
+            },
+            "fortiproxy": {
+                "counts": 2,
+                "published_dates": [
+                    "2024-02-09",
                     "2024-02-15"
                 ],
                 "last_modified_dates": [
@@ -83,7 +74,16 @@
                 ]
             },
             "fortipam": {
-                "counts": 3,
+                "counts": 1,
+                "published_dates": [
+                    "2024-02-15"
+                ],
+                "last_modified_dates": [
+                    "2024-11-29"
+                ]
+            },
+            "fortiswitchmanager": {
+                "counts": 1,
                 "published_dates": [
                     "2024-02-15"
                 ],
@@ -94,10 +94,10 @@
         }
     },
     "trendmicro": {
-        "total_counts": 4,
+        "total_counts": 3,
         "subproducts": {
-            "apex_one": {
-                "counts": 2,
+            "worry-free_business_security_services": {
+                "counts": 1,
                 "published_dates": [
                     "2023-09-19"
                 ],
@@ -114,7 +114,7 @@
                     "2024-11-29"
                 ]
             },
-            "worry-free_business_security_services": {
+            "apex_one": {
                 "counts": 1,
                 "published_dates": [
                     "2023-09-19"
@@ -126,10 +126,10 @@
         }
     },
     "apple": {
-        "total_counts": 28,
+        "total_counts": 20,
         "subproducts": {
-            "ipados": {
-                "counts": 9,
+            "iphone_os": {
+                "counts": 5,
                 "published_dates": [
                     "2023-09-07",
                     "2023-09-21",
@@ -141,8 +141,8 @@
                     "2024-11-29"
                 ]
             },
-            "iphone_os": {
-                "counts": 9,
+            "ipados": {
+                "counts": 5,
                 "published_dates": [
                     "2023-09-07",
                     "2023-09-21",
@@ -198,65 +198,9 @@
             }
         }
     },
-    "debian": {
-        "total_counts": 4,
-        "subproducts": {
-            "debian_linux": {
-                "counts": 4,
-                "published_dates": [
-                    "2023-09-21",
-                    "2023-11-30"
-                ],
-                "last_modified_dates": [
-                    "2024-11-29"
-                ]
-            }
-        }
-    },
-    "oracle": {
-        "total_counts": 4,
-        "subproducts": {
-            "graalvm": {
-                "counts": 2,
-                "published_dates": [
-                    "2023-09-21"
-                ],
-                "last_modified_dates": [
-                    "2024-11-29"
-                ]
-            },
-            "jdk": {
-                "counts": 1,
-                "published_dates": [
-                    "2023-09-21"
-                ],
-                "last_modified_dates": [
-                    "2024-11-29"
-                ]
-            },
-            "jre": {
-                "counts": 1,
-                "published_dates": [
-                    "2023-09-21"
-                ],
-                "last_modified_dates": [
-                    "2024-11-29"
-                ]
-            }
-        }
-    },
     "netapp": {
-        "total_counts": 6,
+        "total_counts": 5,
         "subproducts": {
-            "active_iq_unified_manager": {
-                "counts": 2,
-                "published_dates": [
-                    "2023-09-21"
-                ],
-                "last_modified_dates": [
-                    "2024-11-29"
-                ]
-            },
             "cloud_insights_acquisition_unit": {
                 "counts": 1,
                 "published_dates": [
@@ -275,6 +219,15 @@
                     "2024-11-29"
                 ]
             },
+            "oncommand_workflow_automation": {
+                "counts": 1,
+                "published_dates": [
+                    "2023-09-21"
+                ],
+                "last_modified_dates": [
+                    "2024-11-29"
+                ]
+            },
             "oncommand_insight": {
                 "counts": 1,
                 "published_dates": [
@@ -284,7 +237,54 @@
                     "2024-11-29"
                 ]
             },
-            "oncommand_workflow_automation": {
+            "active_iq_unified_manager": {
+                "counts": 1,
+                "published_dates": [
+                    "2023-09-21"
+                ],
+                "last_modified_dates": [
+                    "2024-11-29"
+                ]
+            }
+        }
+    },
+    "debian": {
+        "total_counts": 2,
+        "subproducts": {
+            "debian_linux": {
+                "counts": 2,
+                "published_dates": [
+                    "2023-09-21",
+                    "2023-11-30"
+                ],
+                "last_modified_dates": [
+                    "2024-11-29"
+                ]
+            }
+        }
+    },
+    "oracle": {
+        "total_counts": 3,
+        "subproducts": {
+            "graalvm": {
+                "counts": 1,
+                "published_dates": [
+                    "2023-09-21"
+                ],
+                "last_modified_dates": [
+                    "2024-11-29"
+                ]
+            },
+            "jre": {
+                "counts": 1,
+                "published_dates": [
+                    "2023-09-21"
+                ],
+                "last_modified_dates": [
+                    "2024-11-29"
+                ]
+            },
+            "jdk": {
                 "counts": 1,
                 "published_dates": [
                     "2023-09-21"
@@ -311,126 +311,9 @@
         }
     },
     "dlink": {
-        "total_counts": 46,
+        "total_counts": 40,
         "subproducts": {
-            "dns-320l_firmware": {
-                "counts": 6,
-                "published_dates": [
-                    "2024-04-04"
-                ],
-                "last_modified_dates": [
-                    "2024-11-29"
-                ]
-            },
             "dns-120_firmware": {
-                "counts": 2,
-                "published_dates": [
-                    "2024-04-04"
-                ],
-                "last_modified_dates": [
-                    "2024-11-29"
-                ]
-            },
-            "dnr-202l_firmware": {
-                "counts": 2,
-                "published_dates": [
-                    "2024-04-04"
-                ],
-                "last_modified_dates": [
-                    "2024-11-29"
-                ]
-            },
-            "dns-315l_firmware": {
-                "counts": 2,
-                "published_dates": [
-                    "2024-04-04"
-                ],
-                "last_modified_dates": [
-                    "2024-11-29"
-                ]
-            },
-            "dns-320_firmware": {
-                "counts": 2,
-                "published_dates": [
-                    "2024-04-04"
-                ],
-                "last_modified_dates": [
-                    "2024-11-29"
-                ]
-            },
-            "dns-320lw_firmware": {
-                "counts": 2,
-                "published_dates": [
-                    "2024-04-04"
-                ],
-                "last_modified_dates": [
-                    "2024-11-29"
-                ]
-            },
-            "dns-321_firmware": {
-                "counts": 2,
-                "published_dates": [
-                    "2024-04-04"
-                ],
-                "last_modified_dates": [
-                    "2024-11-29"
-                ]
-            },
-            "dnr-322l_firmware": {
-                "counts": 2,
-                "published_dates": [
-                    "2024-04-04"
-                ],
-                "last_modified_dates": [
-                    "2024-11-29"
-                ]
-            },
-            "dns-323_firmware": {
-                "counts": 2,
-                "published_dates": [
-                    "2024-04-04"
-                ],
-                "last_modified_dates": [
-                    "2024-11-29"
-                ]
-            },
-            "dns-325_firmware": {
-                "counts": 2,
-                "published_dates": [
-                    "2024-04-04"
-                ],
-                "last_modified_dates": [
-                    "2024-11-29"
-                ]
-            },
-            "dns-326_firmware": {
-                "counts": 2,
-                "published_dates": [
-                    "2024-04-04"
-                ],
-                "last_modified_dates": [
-                    "2024-11-29"
-                ]
-            },
-            "dns-327l_firmware": {
-                "counts": 4,
-                "published_dates": [
-                    "2024-04-04"
-                ],
-                "last_modified_dates": [
-                    "2024-11-29"
-                ]
-            },
-            "dnr-326_firmware": {
-                "counts": 2,
-                "published_dates": [
-                    "2024-04-04"
-                ],
-                "last_modified_dates": [
-                    "2024-11-29"
-                ]
-            },
-            "dns-340l_firmware": {
                 "counts": 2,
                 "published_dates": [
                     "2024-04-04"
@@ -448,15 +331,6 @@
                     "2024-11-29"
                 ]
             },
-            "dns-345_firmware": {
-                "counts": 2,
-                "published_dates": [
-                    "2024-04-04"
-                ],
-                "last_modified_dates": [
-                    "2024-11-29"
-                ]
-            },
             "dns-726-4_firmware": {
                 "counts": 2,
                 "published_dates": [
@@ -466,7 +340,43 @@
                     "2024-11-29"
                 ]
             },
-            "dns-1100-4_firmware": {
+            "dns-320_firmware": {
+                "counts": 2,
+                "published_dates": [
+                    "2024-04-04"
+                ],
+                "last_modified_dates": [
+                    "2024-11-29"
+                ]
+            },
+            "dnr-326_firmware": {
+                "counts": 2,
+                "published_dates": [
+                    "2024-04-04"
+                ],
+                "last_modified_dates": [
+                    "2024-11-29"
+                ]
+            },
+            "dns-315l_firmware": {
+                "counts": 2,
+                "published_dates": [
+                    "2024-04-04"
+                ],
+                "last_modified_dates": [
+                    "2024-11-29"
+                ]
+            },
+            "dns-320l_firmware": {
+                "counts": 2,
+                "published_dates": [
+                    "2024-04-04"
+                ],
+                "last_modified_dates": [
+                    "2024-11-29"
+                ]
+            },
+            "dns-321_firmware": {
                 "counts": 2,
                 "published_dates": [
                     "2024-04-04"
@@ -484,7 +394,97 @@
                     "2024-11-29"
                 ]
             },
+            "dnr-322l_firmware": {
+                "counts": 2,
+                "published_dates": [
+                    "2024-04-04"
+                ],
+                "last_modified_dates": [
+                    "2024-11-29"
+                ]
+            },
+            "dns-345_firmware": {
+                "counts": 2,
+                "published_dates": [
+                    "2024-04-04"
+                ],
+                "last_modified_dates": [
+                    "2024-11-29"
+                ]
+            },
+            "dns-1100-4_firmware": {
+                "counts": 2,
+                "published_dates": [
+                    "2024-04-04"
+                ],
+                "last_modified_dates": [
+                    "2024-11-29"
+                ]
+            },
+            "dns-320lw_firmware": {
+                "counts": 2,
+                "published_dates": [
+                    "2024-04-04"
+                ],
+                "last_modified_dates": [
+                    "2024-11-29"
+                ]
+            },
+            "dnr-202l_firmware": {
+                "counts": 2,
+                "published_dates": [
+                    "2024-04-04"
+                ],
+                "last_modified_dates": [
+                    "2024-11-29"
+                ]
+            },
+            "dns-323_firmware": {
+                "counts": 2,
+                "published_dates": [
+                    "2024-04-04"
+                ],
+                "last_modified_dates": [
+                    "2024-11-29"
+                ]
+            },
             "dns-1550-04_firmware": {
+                "counts": 2,
+                "published_dates": [
+                    "2024-04-04"
+                ],
+                "last_modified_dates": [
+                    "2024-11-29"
+                ]
+            },
+            "dns-327l_firmware": {
+                "counts": 2,
+                "published_dates": [
+                    "2024-04-04"
+                ],
+                "last_modified_dates": [
+                    "2024-11-29"
+                ]
+            },
+            "dns-340l_firmware": {
+                "counts": 2,
+                "published_dates": [
+                    "2024-04-04"
+                ],
+                "last_modified_dates": [
+                    "2024-11-29"
+                ]
+            },
+            "dns-326_firmware": {
+                "counts": 2,
+                "published_dates": [
+                    "2024-04-04"
+                ],
+                "last_modified_dates": [
+                    "2024-11-29"
+                ]
+            },
+            "dns-325_firmware": {
                 "counts": 2,
                 "published_dates": [
                     "2024-04-04"
@@ -496,10 +496,10 @@
         }
     },
     "ivanti": {
-        "total_counts": 127,
+        "total_counts": 5,
         "subproducts": {
-            "connect_secure": {
-                "counts": 60,
+            "neurons_for_zero-trust_access": {
+                "counts": 1,
                 "published_dates": [
                     "2024-01-31"
                 ],
@@ -508,7 +508,7 @@
                 ]
             },
             "policy_secure": {
-                "counts": 46,
+                "counts": 1,
                 "published_dates": [
                     "2024-01-31"
                 ],
@@ -516,8 +516,8 @@
                     "2024-11-29"
                 ]
             },
-            "neurons_for_zero-trust_access": {
-                "counts": 12,
+            "connect_secure": {
+                "counts": 1,
                 "published_dates": [
                     "2024-01-31"
                 ],
@@ -526,7 +526,7 @@
                 ]
             },
             "endpoint_manager": {
-                "counts": 7,
+                "counts": 1,
                 "published_dates": [
                     "2024-05-31"
                 ],
@@ -535,7 +535,7 @@
                 ]
             },
             "cloud_services_appliance": {
-                "counts": 2,
+                "counts": 1,
                 "published_dates": [
                     "2024-09-10"
                 ],
@@ -546,10 +546,10 @@
         }
     },
     "qlik": {
-        "total_counts": 72,
+        "total_counts": 2,
         "subproducts": {
             "qlik_sense": {
-                "counts": 72,
+                "counts": 2,
                 "published_dates": [
                     "2023-08-29"
                 ],
@@ -560,7 +560,7 @@
         }
     },
     "paloaltonetworks": {
-        "total_counts": 53,
+        "total_counts": 2,
         "subproducts": {
             "expedition": {
                 "counts": 1,
@@ -572,7 +572,7 @@
                 ]
             },
             "pan-os": {
-                "counts": 52,
+                "counts": 1,
                 "published_dates": [
                     "2024-04-12"
                 ],
